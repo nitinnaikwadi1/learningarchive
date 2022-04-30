@@ -1,0 +1,41 @@
+{
+    "dataFeed": [
+        
+        {
+            "text": "शब्द ओळखा",
+            "audio": "bell",
+            "link": "words.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "सोपे शब्द",
+            "audio": "bell",
+            "link": "words.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "जोड शब्द",
+            "audio": "bell",
+            "link": "words.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "वाक्य वाचन",
+            "audio": "bell",
+            "link": "vakya.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "मराठी महिने",
+            "audio": "bell",
+            "link": "mahine.html",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "इंग्रजी महिने",
+            "audio": "bell",
+            "link": "months.html",
+            "style": "card bg-c-blue item-card"
+        }
+    ]
+}

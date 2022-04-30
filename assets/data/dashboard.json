@@ -1,0 +1,256 @@
+{
+    "dataFeed": [
+        {
+            "text": "A B C D",
+            "audio": "bell",
+            "link": "abcd.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "इंग्रजी अंक",
+            "audio": "bell",
+            "link": "eng-numbers.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "अंक सराव",
+            "audio": "bell",
+            "link": "1to50.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "शब्द ओळखा",
+            "audio": "bell",
+            "link": "words.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "अंक ओळखा",
+            "audio": "bell",
+            "link": "1to50.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "अक्षर सराव",
+            "audio": "bell",
+            "link": "mulakshar-sarav.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "सोपे शब्द",
+            "audio": "bell",
+            "link": "words.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "जोड शब्द",
+            "audio": "bell",
+            "link": "words.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "वाक्य वाचन",
+            "audio": "bell",
+            "link": "vakya.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "मुळाक्षरे",
+            "audio": "bell",
+            "link": "mulakshar.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "मराठी अंक",
+            "audio": "bell",
+            "link": "ank.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "१ ते १०० अंक",
+            "audio": "bell",
+            "link": "1te100.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "1 - 100",
+            "audio": "bell",
+            "link": "1to100.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "काना",
+            "audio": "bell",
+            "link": "mulakshar-kana.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "पहिली वेलांटी",
+            "audio": "bell",
+            "link": "mulakshar-pahili-welanti.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "दुसरी वेलांटी",
+            "audio": "bell",
+            "link": "mulakshar-dusri-welanti.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "पहिला ऊकार",
+            "audio": "bell",
+            "link": "mulakshar-pahila-ukar.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "दुसरा ऊकार",
+            "audio": "bell",
+            "link": "mulakshar-dusra-ukar.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "एक मात्रा",
+            "audio": "bell",
+            "link": "mulakshar-ek-matra.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "दोन मात्रा",
+            "audio": "bell",
+            "link": "mulakshar-don-matra.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "काना एक मात्रा",
+            "audio": "bell",
+            "link": "mulakshar-kana-ek-matra.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "काना दोन मात्रा",
+            "audio": "bell",
+            "link": "mulakshar-kana-don-matra.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "अनुस्वार",
+            "audio": "bell",
+            "link": "mulakshar-anuswar.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "अर्धचंद्र",
+            "audio": "bell",
+            "link": "mulakshar-ardhchandr.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "काना अर्धचंद्र",
+            "audio": "bell",
+            "link": "mulakshar-kana-ardhchandr.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "विसर्ग",
+            "audio": "bell",
+            "link": "mulakshar-wisarg.json",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "a b c d",
+            "audio": "bell",
+            "link": "small-abcd.json",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "अंक बनवा",
+            "audio": "bell",
+            "link": "numpad.json",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "शब्द बनवा",
+            "audio": "bell",
+            "link": "screen-board.json",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "प्राणी ओळख",
+            "audio": "bell",
+            "link": "animals.html",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "मराठी महिने",
+            "audio": "bell",
+            "link": "mahine.html",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "इंग्रजी महिने",
+            "audio": "bell",
+            "link": "months.html",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "पक्षी ओळख",
+            "audio": "bell",
+            "link": "birds.html",
+            "style": "card bg-c-pink item-card"
+        },
+        {
+            "text": "कीटक ओळख",
+            "audio": "bell",
+            "link": "kitak.html",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "समुद्र ओळख",
+            "audio": "bell",
+            "link": "aquatic.html",
+            "style": "card bg-c-yellow item-card"
+        },
+        {
+            "text": "रंग ओळख",
+            "audio": "bell",
+            "link": "rangolakh.html",
+            "style": "card bg-c-green item-card"
+        },
+        {
+            "text": "आकार ओळख",
+            "audio": "bell",
+            "link": "shapes.html",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "झाडांची ओळख",
+            "audio": "bell",
+            "link": "trees.html",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "फळांची ओळख",
+            "audio": "bell",
+            "link": "fruits.html",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "फुलांची ओळख",
+            "audio": "bell",
+            "link": "flowers.html",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "सणांची ओळख",
+            "audio": "bell",
+            "link": "festival.html",
+            "style": "card bg-c-blue item-card"
+        },
+        {
+            "text": "पिकांचे हंगाम",
+            "audio": "bell",
+            "link": "crops.html",
+            "style": "card bg-c-pink item-card"
+        }
+    ]
+}

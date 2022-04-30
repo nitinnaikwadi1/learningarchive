@@ -1,0 +1,10 @@
+{
+    "dataFeed": [
+        {
+            "name": "आंबा - Mango",
+            "item": "1",
+            "fruit": "assets/fruits/mango.jpg",
+            "textColor": "white"
+        }
+    ]
+}

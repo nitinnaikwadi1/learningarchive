@@ -1,0 +1,179 @@
+{
+    "dataFeed": [
+        {
+            "id": "1",
+            "text": "का",
+            "audio": "kana-1-kaa"
+        },
+        {
+            "id": "2",
+            "text": "खा",
+            "audio": "kana-2-khaa"
+        },
+        {
+            "id": "3",
+            "text": "गा",
+            "audio": "kana-3-gaa"
+        },
+        {
+            "id": "4",
+            "text": "घा",
+            "audio": "kana-4-ghaa"
+        },
+        {
+            "id": "5",
+            "text": "चा",
+            "audio": "kana-5-chaa"
+        },
+        {
+            "id": "6",
+            "text": "छा",
+            "audio": "kana-6-chaa"
+        },
+        {
+            "id": "7",
+            "text": "जा",
+            "audio": "kana-7-jaa"
+        },
+        {
+            "id": "8",
+            "text": "झा",
+            "audio": "kana-8-jhaa"
+        },
+        {
+            "id": "9",
+            "text": "ञा",
+            "audio": "kana-9-traa"
+        },
+        {
+            "id": "10",
+            "text": "टा",
+            "audio": "kana-10-taa"
+        },
+        {
+            "id": "11",
+            "text": "ठा",
+            "audio": "kana-11-thaa"
+        },
+        {
+            "id": "12",
+            "text": "डा",
+            "audio": "kana-12-daa"
+        },
+        {
+            "id": "13",
+            "text": "ढा",
+            "audio": "kana-13-dhaa"
+        },
+        {
+            "id": "14",
+            "text": "णा",
+            "audio": "kana-14-naa"
+        },
+        {
+            "id": "15",
+            "text": "ता",
+            "audio": "kana-15-taa"
+        },
+        {
+            "id": "16",
+            "text": "था",
+            "audio": "kana-16-thaa"
+        },
+        {
+            "id": "17",
+            "text": "दा",
+            "audio": "kana-17-daaa"
+        },
+        {
+            "id": "18",
+            "text": "धा",
+            "audio": "kana-18-dhaaa"
+        },
+        {
+            "id": "19",
+            "text": "ना",
+            "audio": "kana-19-naa"
+        },
+        {
+            "id": "20",
+            "text": "पा",
+            "audio": "kana-20-paa"
+        },
+        {
+            "id": "21",
+            "text": "फा",
+            "audio": "kana-21-phaa"
+        },
+        {
+            "id": "22",
+            "text": "बा",
+            "audio": "kana-22-baa"
+        },
+        {
+            "id": "23",
+            "text": "भा",
+            "audio": "kana-23-bhaa"
+        },
+        {
+            "id": "24",
+            "text": "मा",
+            "audio": "kana-24-maa"
+        },
+        {
+            "id": "25",
+            "text": "या",
+            "audio": "kana-25-yaa"
+        },
+        {
+            "id": "26",
+            "text": "रा",
+            "audio": "kana-26-raa"
+        },
+        {
+            "id": "27",
+            "text": "ला",
+            "audio": "kana-27-laa"
+        },
+        {
+            "id": "28",
+            "text": "वा",
+            "audio": "kana-28-vaa"
+        },
+        {
+            "id": "29",
+            "text": "शा",
+            "audio": "kana-29-shaa"
+        },
+        {
+            "id": "30",
+            "text": "षा",
+            "audio": "kana-30-shaaa"
+        },
+        {
+            "id": "31",
+            "text": "सा",
+            "audio": "kana-31-saa"
+        },
+        {
+            "id": "32",
+            "text": "हा",
+            "audio": "kana-32-haa"
+        },
+        {
+            "id": "33",
+            "text": "ळा",
+            "audio": "kana-33-laaa"
+        },
+        {
+            "id": "34",
+            "text": "क्षा",
+            "audio": "kana-34-kshaa"
+        },
+        {
+            "id": "35",
+            "text": "ज्ञा",
+            "audio": "kana-35-dnyaa"
+        }
+    ]
+}

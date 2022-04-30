@@ -1,0 +1,179 @@
+{
+    "dataFeed": [
+        {
+            "id": "1",
+            "text": "अः",
+            "audio": "wisarg-1-aha"
+        },
+        {
+            "id": "2",
+            "text": "कः",
+            "audio": "wisarg-2-kaha"
+        },
+        {
+            "id": "3",
+            "text": "खः",
+            "audio": "wisarg-3-khaha"
+        },
+        {
+            "id": "4",
+            "text": "गः",
+            "audio": "wisarg-4-gaha"
+        },
+        {
+            "id": "5",
+            "text": "घः",
+            "audio": "wisarg-5-ghaha"
+        },
+        {
+            "id": "6",
+            "text": "चः",
+            "audio": "wisarg-6-chaha"
+        },
+        {
+            "id": "7",
+            "text": "छः",
+            "audio": "wisarg-7-chhaha"
+        },
+        {
+            "id": "8",
+            "text": "जः",
+            "audio": "wisarg-8-jaha"
+        },
+        {
+            "id": "9",
+            "text": "झः",
+            "audio": "wisarg-9-jhaha"
+        },
+        {
+            "id": "10",
+            "text": "टः",
+            "audio": "wisarg-10-taha"
+        },
+        {
+            "id": "11",
+            "text": "ठः",
+            "audio": "wisarg-11-thaha"
+        },
+        {
+            "id": "12",
+            "text": "डः",
+            "audio": "wisarg-12-daha"
+        },
+        {
+            "id": "13",
+            "text": "ढः",
+            "audio": "wisarg-13-dhaha"
+        },
+        {
+            "id": "14",
+            "text": "णः",
+            "audio": "wisarg-14-naha"
+        },
+        {
+            "id": "15",
+            "text": "तः",
+            "audio": "wisarg-15-taha"
+        },
+        {
+            "id": "16",
+            "text": "थः",
+            "audio": "wisarg-16-thaha"
+        },
+        {
+            "id": "17",
+            "text": "दः",
+            "audio": "wisarg-17-daha"
+        },
+        {
+            "id": "18",
+            "text": "धः",
+            "audio": "wisarg-18-dhaha"
+        },
+        {
+            "id": "19",
+            "text": "नः",
+            "audio": "wisarg-19-naaha"
+        },
+        {
+            "id": "20",
+            "text": "पः",
+            "audio": "wisarg-20-paha"
+        },
+        {
+            "id": "21",
+            "text": "फः",
+            "audio": "wisarg-21-phaha"
+        },
+        {
+            "id": "22",
+            "text": "बः",
+            "audio": "wisarg-22-baha"
+        },
+        {
+            "id": "23",
+            "text": "भः",
+            "audio": "wisarg-23-bhaha"
+        },
+        {
+            "id": "24",
+            "text": "मः",
+            "audio": "wisarg-24-maha"
+        },
+        {
+            "id": "25",
+            "text": "यः",
+            "audio": "wisarg-25-yaha"
+        },
+        {
+            "id": "26",
+            "text": "रः",
+            "audio": "wisarg-26-raha"
+        },
+        {
+            "id": "27",
+            "text": "लः",
+            "audio": "wisarg-27-laha"
+        },
+        {
+            "id": "28",
+            "text": "वः",
+            "audio": "wisarg-28-vaha"
+        },
+        {
+            "id": "29",
+            "text": "शः",
+            "audio": "wisarg-29-shaha"
+        },
+        {
+            "id": "30",
+            "text": "षः",
+            "audio": "wisarg-30-shahaa"
+        },
+        {
+            "id": "31",
+            "text": "सः",
+            "audio": "wisarg-31-sahaa"
+        },
+        {
+            "id": "32",
+            "text": "हः",
+            "audio": "wisarg-32-haa"
+        },
+        {
+            "id": "33",
+            "text": "ळः",
+            "audio": "wisarg-33-lahaa"
+        },
+        {
+            "id": "34",
+            "text": "क्षः",
+            "audio": "wisarg-34-kshaha"
+        },
+        {
+            "id": "35",
+            "text": "ज्ञः",
+            "audio": "wisarg-35-dnyaha"
+        }
+    ]
+}

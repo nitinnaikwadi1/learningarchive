@@ -1,0 +1,160 @@
+{
+    "dataFeed": [
+        {
+            "name": "झेंडू - Marigold",
+            "item": "1",
+            "flower": "assets/flowers/marigold.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "शंखपुष्पी, गोकर्णी - Butterfly Pea",
+            "item": "2",
+            "flower": "assets/flowers/shankhpushpi.webp",
+            "textColor": "white"
+        },
+        {
+            "name": "कर्दळी - Canna Lily",
+            "item": "3",
+            "flower": "assets/flowers/kardali.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "शेवंती - Chrysthemum",
+            "item": "4",
+            "flower": "assets/flowers/shevanti.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "चमेली - Common Jasmine",
+            "item": "5",
+            "flower": "assets/flowers/chameli.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "बचनाग - Glory Lily",
+            "item": "6",
+            "flower": "assets/flowers/bachnag.png",
+            "textColor": "white"
+        },
+        {
+            "name": "बहावा - Golden Shower",
+            "item": "7",
+            "flower": "assets/flowers/bahava.webp",
+            "textColor": "white"
+        },
+        {
+            "name": "जास्वंद - Hibiscus",
+            "item": "8",
+            "flower": "assets/flowers/jaswand.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "मोगरा - Jasmin",
+            "item": "9",
+            "flower": "assets/flowers/mogra.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "कमळ - Lotus",
+            "item": "10",
+            "flower": "assets/flowers/kamal.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "घाणेरी, टनटनी - Lantana",
+            "item": "11",
+            "flower": "assets/flowers/ghaneri.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "रातराणी - Night Cestrum",
+            "item": "12",
+            "flower": "assets/flowers/ratrani.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "कण्हेर - Olender",
+            "item": "13",
+            "flower": "assets/flowers/kanher.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "पळस - Flame tree",
+            "item": "14",
+            "flower": "assets/flowers/palas.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "पारिजात - Night Jasmine",
+            "item": "15",
+            "flower": "assets/flowers/parijat.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "गुलमोहर - Peacock Flower",
+            "item": "16",
+            "flower": "assets/flowers/gulmohar.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "सदाफुली - Periwinkle",
+            "item": "17",
+            "flower": "assets/flowers/sadafuli.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "ताम्हण - Queen Crape",
+            "item": "18",
+            "flower": "assets/flowers/tamhan.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "निशिगंधा - Tuberose",
+            "item": "19",
+            "flower": "assets/flowers/nishigandha.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "तरवड - Tanner's Cassia",
+            "item": "20",
+            "flower": "assets/flowers/tarvad.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "सूर्यफूल - Sunflower",
+            "item": "19",
+            "flower": "assets/flowers/suryful.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "गुलाब - Rose",
+            "item": "20",
+            "flower": "assets/flowers/rose.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "चील - Bottlebrush",
+            "item": "21",
+            "flower": "assets/flowers/cheel.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "आकाश शेवगा - Spathodea",
+            "item": "22",
+            "flower": "assets/flowers/akashshevga.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "सप्तपर्ण - Alstonia",
+            "item": "23",
+            "flower": "assets/flowers/saptparn.jpg",
+            "textColor": "white"
+        },
+        {
+            "name": "रुक्मिणी - Ixora Mini",
+            "item": "24",
+            "flower": "assets/flowers/ixora.jpg",
+            "textColor": "white"
+        }
+    ]
+}
