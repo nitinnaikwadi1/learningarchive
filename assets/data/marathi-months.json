@@ -3,85 +3,85 @@
         {
             "name": "चैत्र",
             "item": "1",
-            "month": "/assets/mar-months/chaitra.png",
-            "month_cal": "/assets/mar-months/chaitra-cal.png",
+            "image": "assets/mar-months/chaitra.gif",
+            "month_cal": "assets/mar-months/chaitra-cal.png",
             "info": "चैत्र हा हिदू पंचांगानुसार वर्षाचा पहिला महिना आहे.चैत्र महिन्यात गुडीपाडवा सण साजरा केला जातो.चैत्र महिन्यात वसंत ऋतू (उन्हाळा) असतो.चैत्र महिन्यात उन्हाळी हंगामाची पीक घेतली जातात.चैत्र महिना इंग्रजी कॅलेंडरनुसार मार्च  महिन्याच्या शेवटी आणि एप्रिल महिन्यांत येतो."
         },
         {
             "name": "वैशाख",
             "item": "2",
-            "month": "/assets/mar-months/vaishakh.png",
-            "month_cal": "/assets/mar-months/vaishakh-cal.png",
+            "image": "assets/mar-months/vaishakh.gif",
+            "month_cal": "assets/mar-months/vaishakh-cal.png",
             "info": "वैशाख हा हिदू पंचांगानुसार वर्षाचा दुसरा महिना आहे.वैशाख हा पीक काढणीचा हंगाम आहे.वैशाख महिन्यात ग्रीष्म ऋतू (उन्हाळा) असतो.वैशाख महिन्यात उन्हाळी हंगामाची पीक घेतली जातात.वैशाख महिना इंग्रजी कॅलेंडरनुसार एप्रिलच्या शेवटी , मे आणि जूनच्या सुरवातीला येतो."
         },
         {
             "name": "ज्येष्ठ",
             "item": "3",
-            "month": "/assets/mar-months/jyeshth.png",
-            "month_cal": "/assets/mar-months/jyeshth-cal.png",
+            "image": "assets/mar-months/jyeshth.gif",
+            "month_cal": "assets/mar-months/jyeshth-cal.png",
             "info": "ज्येष्ठ हा हिंदू पंचांगानुसार वर्षाचा तिसरा महिना आहे.ज्येष्ठ महिन्यात वट पौर्णिमा सण साजरा केला जातो.ज्येष्ठ महिन्यात वर्षा ऋतू (पावसाळा) असतो.ज्येष्ठ महिन्यात खरीप (पावसाळी) हंगामाची पीक घेतली जातात.ज्येष्ठ महिना इंग्रजी कॅलेंडरनुसार  मे महिन्याच्या शेवटी आणि जून या महिन्यांत येतो."
         },
         {
             "name": "आषाढ",
             "item": "4",
-            "month": "/assets/mar-months/ashadh.png",
-            "month_cal": "/assets/mar-months/ashadh-cal.png",
+            "image": "assets/mar-months/ashadh.gif",
+            "month_cal": "assets/mar-months/ashadh-cal.png",
             "info": "आषाढ हा हिंदू पंचांगाप्रमाणे वर्षातला चौथा महिना आहे.आषाढ महिन्यात गुरुपौर्णिमा आणि आषाढी एकादशी साजरी केली जाते.आषाढ महिन्यात वर्षा ऋतू (पावसाळा) असतो.आषाढ महिन्यात खरीप (पावसाळी) हंगामाची पीक घेतली जातात.आषाढ महिना इंग्रजी कॅलेंडरनुसार जून महिन्याच्या शेवटी आणि जुलै या महिन्यांत येतो."
         },
         {
             "name": "श्रावण",
             "item": "5",
-            "month": "/assets/mar-months/shravan.png",
-            "month_cal": "/assets/mar-months/shravan-cal.png",
+            "image": "assets/mar-months/shravan.gif",
+            "month_cal": "assets/mar-months/shravan-cal.png",
             "info": "श्रावण हा हिंदू पंचांगानुसार वर्षातला पाचवा महिना आहे.श्रावण महिन्यात नागपंचमी आणि नारळी पौर्णिमा साजरी केली जाते.श्रावण महिन्यात शरद ऋतू (पावसाळा) असतो.श्रावण महिन्यात खरीप (पावसाळी) हंगामाची पीक घेतली जातात.श्रावण महिना इंग्रजी कॅलेंडरनुसार जुलै महिन्याच्या शेवटी आणि ऑगस्ट या महिन्यांत येतो."
         },
         {
             "name": "भाद्रपद",
             "item": "6",
-            "month": "/assets/mar-months/bhadrpad.png",
-            "month_cal": "/assets/mar-months/bhadrpad-cal.png",
+            "image": "assets/mar-months/bhadrpad.gif",
+            "month_cal": "assets/mar-months/bhadrpad-cal.png",
             "info": "भाद्रपद हा हिंदू पंचांगानुसार वर्षातला सहावा महिना आहे.भाद्रपद महिन्यात गणेश चतुर्थी साजरी केली जाते.भाद्रपद महिन्यात शरद ऋतू (पावसाळा) असतो.भाद्रपद महिन्यात खरीप (पावसाळी) हंगामाची पीक घेतली जातात.भाद्रपद महिना इंग्रजी कॅलेंडरनुसार ऑगस्ट महिन्याच्या शेवटी आणि सप्टेंबर या महिन्यांत येतो."
         },
         {
             "name": "आश्विन",
             "item": "7",
-            "month": "/assets/mar-months/ashwin.png",
-            "month_cal": "/assets/mar-months/ashwin-cal.png",
+            "image": "assets/mar-months/ashwin.gif",
+            "month_cal": "assets/mar-months/ashwin-cal.png",
             "info": "आश्विन हा हिंदू पंचांगानुसार वर्षातला सातवा महिना आहे.आश्विन महिन्यात नवरात्री, लक्ष्मी पूजन, कोजागिरी पौर्णिमा, दसरा आणि दिवाळी साजरी केली जाते.आश्विन महिन्यात हेमंत ऋतू (हिवाळा) असतो.आश्विन महिन्यात रब्बी (हिवाळी) हंगामाची पीक घेतली जातात.आश्विन महिना इंग्रजी कॅलेंडरनुसार सप्टेंबर महिन्याच्या शेवटी आणि ऑक्टोबर या महिन्यांत येतो."
         },
         {
             "name": "कार्तिक",
             "item": "8",
-            "month": "/assets/mar-months/kartik.png",
-            "month_cal": "/assets/mar-months/kartik-cal.png",
+            "image": "assets/mar-months/kartik.gif",
+            "month_cal": "assets/mar-months/kartik-cal.png",
             "info": "कार्तिक हा हिंदू पंचांगानुसार वर्षातला आठवा महिना आहे.कार्तिक महिन्यात भाऊबीज साजरी केली जाते.कार्तिक महिन्यात हेमंत ऋतू (हिवाळा) असतो.कार्तिक महिन्यात रब्बी (हिवाळी) हंगामाची पीक घेतली जातात.कार्तिक महिना इंग्रजी कॅलेंडरनुसार ऑक्टोबर महिन्याच्या शेवटी आणि नोव्हेंबर या महिन्यांत येतो."
         },
         {
             "name": "मार्गशीर्ष",
             "item": "9",
-            "month": "/assets/mar-months/margshish.png",
-            "month_cal": "/assets/mar-months/margshish-cal.png",
+            "image": "assets/mar-months/margshish.gif",
+            "month_cal": "assets/mar-months/margshish-cal.png",
             "info": "मार्गशीर्ष हा हिंदू पंचांगानुसार वर्षातला नववा महिना आहे.मार्गशीर्ष महिन्यात लक्ष्मी पूजेचे व्रत केले जाते.मार्गशीर्ष महिन्यात शिशिर ऋतू (हिवाळा) असतो.मार्गशीर्ष महिन्यात रब्बी (हिवाळी) हंगामाची पीक घेतली जातात.मार्गशीर्ष महिना इंग्रजी कॅलेंडरनुसार नोव्हेंबर महिन्याच्या शेवटी आणि डिसेंबर या महिन्यांत येतो."
         },
         {
             "name": "पौष",
             "item": "10",
-            "month": "/assets/mar-months/paush.png",
-            "month_cal": "/assets/mar-months/paush-cal.png",
+            "image": "assets/mar-months/paush.gif",
+            "month_cal": "assets/mar-months/paush-cal.png",
             "info": "पौष हा हिंदू पंचांगानुसार वर्षातला दहावा महिना आहे.पौष महिन्यात पौष अमावस्या साजरी केली जाते.पौष महिन्यात शिशिर ऋतू (हिवाळा) असतो.पौष महिन्यात रब्बी (हिवाळी) हंगामाची पीक घेतली जातात.पौष महिना इंग्रजी कॅलेंडरनुसार डिसेंबर महिन्याच्या शेवटी आणि जानेवारी या महिन्यांत येतो."
         },
         {
             "name": "माघ",
             "item": "11",
-            "month": "/assets/mar-months/magh.png",
-            "month_cal": "/assets/mar-months/magh-cal.png",
+            "image": "assets/mar-months/magh.gif",
+            "month_cal": "assets/mar-months/magh-cal.png",
             "info": "माघ हा हिंदू पंचांगानुसार वर्षातला अकरावा महिना आहे.माघ महिन्यात मकर संक्रांती, महाशिवरात्री साजरी केली जाते.माघ महिन्यात वसंत ऋतूची (उन्हाळा) सुरुवात होते.माघ महिन्यात उन्हाळी हंगामाची पीक घेतली जातात.माघ महिना इंग्रजी कॅलेंडरनुसार जानेवारी महिन्याच्या शेवटी आणि फेब्रुवारी या महिन्यांत येतो."
         },
         {
             "name": "फाल्गुन",
             "item": "12",
-            "month": "/assets/mar-months/falgun.png",
-            "month_cal": "/assets/mar-months/falgun-cal.png",
+            "image": "assets/mar-months/falgun.gif",
+            "month_cal": "assets/mar-months/falgun-cal.png",
             "info": "फाल्गुन हा हिंदू पंचांगानुसार वर्षातला बारावा महिना आहे.फाल्गुन महिन्यात होळी आणि रंगपंचमी साजरी केली जाते.फाल्गुन महिन्यात वसंत ऋतू (उन्हाळा) असतो.फाल्गुन महिन्यात उन्हाळी हंगामाची पीक घेतली जातात.फाल्गुन महिना इंग्रजी कॅलेंडरनुसार फेब्रुवारी महिन्याच्या शेवटी आणि मार्च या महिन्यांत येतो."
         }
     ]

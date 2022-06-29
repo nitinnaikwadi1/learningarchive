@@ -1,11 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:learningarchive/dashboard.dart';
 
-void main() => runApp(MyApp());
+main() {
+  runApp(MyAppMain());
+}
 
-class MyApp extends StatelessWidget {
-  MyApp({Key? key}) : super(key: key);
+class MyAppMain extends StatefulWidget {
+  const MyAppMain({Key? key}) : super(key: key);
 
+  @override
+  _MyAppMainState createState() => _MyAppMainState();
+}
+
+class _MyAppMainState extends State<MyAppMain> {
   final Map<int, Color> themeColor = {
     50: const Color.fromRGBO(38, 198, 218, .1),
     100: const Color.fromRGBO(38, 198, 218, .2),
@@ -19,16 +26,17 @@ class MyApp extends StatelessWidget {
     900: const Color.fromRGBO(38, 198, 218, 1),
   };
 
-  // This widget is the root of your application.
+  // This widget is root of the application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: MaterialColor(0xff20b2aa, themeColor),
         appBarTheme: const AppBarTheme(foregroundColor: Colors.white),
         fontFamily: 'Data',
       ),
-      home: const Scaffold(backgroundColor: Colors.white, body: Dashboard()),
+      home: Scaffold(backgroundColor: Colors.white, body: Dashboard()),
     );
   }
 }

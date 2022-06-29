@@ -6,7 +6,7 @@ import 'package:just_audio/just_audio.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:learningarchive/model/card_data.dart';
 import 'package:learningarchive/flashcards/card_slide_widget.dart';
-import 'package:learningarchive/flashcards/action_button_widget.dart';
+import 'package:learningarchive/theme/circle_action_button_widget.dart';
 
 class SaravDataCardWidget extends StatefulWidget {
   final String whichContent;
@@ -27,7 +27,7 @@ class _SaravDataCardWidgetState extends State<SaravDataCardWidget>
   bool alternateSwipeFlag = false;
   bool seperateLettersFlag = false;
 
-  int randomLimit = 50;
+  int randomLimit = 80;
 
   tempFilterAudio() {
     if (widget.whichContent == 'words.json') {
@@ -175,7 +175,10 @@ class _SaravDataCardWidgetState extends State<SaravDataCardWidget>
 
                   tempWordStr.split('').forEach((ch) {
                     if (mulaksharDataArr.contains(ch)) {
-                      tempWordStrBuilder.write(ch + "   ");
+                      // write only when not present in the string builder
+                      if (!tempWordStrBuilder.toString().contains(ch)) {
+                        tempWordStrBuilder.write(ch + "  ");
+                      }
                     }
                   });
 
@@ -269,7 +272,7 @@ class _SaravDataCardWidgetState extends State<SaravDataCardWidget>
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.center,
                       children: [
-                        ActionButtonWidget(
+                        CircularActionButton(
                           onPressed: () {
                             // added to make random swipe, this logic can be improved.
                             //this is what seemed feasible at the time of  implementation
@@ -290,9 +293,10 @@ class _SaravDataCardWidgetState extends State<SaravDataCardWidget>
                             Icons.swipe_outlined,
                             color: Colors.blueGrey,
                           ),
+                          iconSize: 42,
                         ),
                         const SizedBox(width: 15),
-                        ActionButtonWidget(
+                        CircularActionButton(
                           onPressed: () async {
                             if (!isFilterAudioActive) {
                               await player.setAsset(audioURLPrefix +
@@ -307,6 +311,7 @@ class _SaravDataCardWidgetState extends State<SaravDataCardWidget>
                             Icons.play_arrow,
                             color: Colors.blueAccent,
                           ),
+                          iconSize: 42,
                         ),
                       ],
                     ),

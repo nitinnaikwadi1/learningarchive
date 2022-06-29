@@ -43,13 +43,6 @@
             "style": "card bg-c-green item-card"
         },
         {
-            "id": 7,
-            "text": "शब्द सराव",
-            "audio": "bell",
-            "link": "words.json",
-            "style": "card bg-c-pink item-card"
-        },
-        {
             "id": 8,
             "text": "अंक ओळखा",
             "audio": "1te100",
@@ -57,7 +50,7 @@
             "style": "card bg-c-pink item-card"
         },
         {
-            "id": 8,
+            "id": 9,
             "text": "शब्द ओळखा",
             "audio": "bell",
             "link": "words.json",

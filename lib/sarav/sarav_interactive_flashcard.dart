@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:learningarchive/sarav/sarav_data_card.dart';
-import 'package:learningarchive/flashcards/background_curve_widget.dart';
+import 'package:learningarchive/theme/background_curve_widget.dart';
 
 class SaravInteractFlashCard extends StatefulWidget {
   final String whichContent;
@@ -41,7 +41,7 @@ class _SaravInteractFlashCardState extends State<SaravInteractFlashCard> {
                 fit: BoxFit.cover)),
         child: Stack(
           children: [
-            const BackgroudCurveWidget(),
+            const BackgroudCurve(),
             SaravDataCardWidget(
                 whichContent: widget.whichContent,
                 whichAudio: widget.whichAudio),

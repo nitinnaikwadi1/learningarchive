@@ -3,80 +3,72 @@
         {
             "text": "प्राणी ओळख",
             "audio": "bell",
-            "link": "animals.html",
-            "style": "card bg-c-yellow item-card"
-        },
-        {
-            "text": "मराठी महिने",
-            "audio": "bell",
-            "link": "mahine.html",
-            "style": "card bg-c-green item-card"
-        },
-        {
-            "text": "इंग्रजी महिने",
-            "audio": "bell",
-            "link": "months.html",
-            "style": "card bg-c-blue item-card"
+            "link": "animals.json"
         },
         {
             "text": "पक्षी ओळख",
             "audio": "bell",
-            "link": "birds.html",
-            "style": "card bg-c-pink item-card"
+            "link": "birds.json"
         },
         {
             "text": "कीटक ओळख",
             "audio": "bell",
-            "link": "kitak.html",
-            "style": "card bg-c-blue item-card"
+            "link": "kitak.json"
         },
         {
             "text": "समुद्र ओळख",
             "audio": "bell",
-            "link": "aquatic.html",
-            "style": "card bg-c-yellow item-card"
+            "link": "aquatic.json"
         },
         {
             "text": "रंग ओळख",
             "audio": "bell",
-            "link": "rangolakh.html",
-            "style": "card bg-c-green item-card"
+            "link": "colors.json"
         },
         {
             "text": "आकार ओळख",
             "audio": "bell",
-            "link": "shapes.html",
-            "style": "card bg-c-blue item-card"
+            "link": "shapes.json"
         },
         {
             "text": "झाडांची ओळख",
             "audio": "bell",
-            "link": "trees.html",
-            "style": "card bg-c-blue item-card"
+            "link": "trees.json"
         },
         {
             "text": "फळांची ओळख",
             "audio": "bell",
-            "link": "fruits.html",
-            "style": "card bg-c-blue item-card"
+            "link": "fruits.json"
         },
         {
             "text": "फुलांची ओळख",
             "audio": "bell",
-            "link": "flowers.html",
-            "style": "card bg-c-blue item-card"
+            "link": "flowers.json"
         },
         {
             "text": "सणांची ओळख",
             "audio": "bell",
-            "link": "festival.html",
-            "style": "card bg-c-blue item-card"
+            "link": "festival.json"
+        },
+        {
+            "text": "मराठी महिने",
+            "audio": "bell",
+            "link": "marathi-months.json"
+        },
+        {
+            "text": "इंग्रजी महिने",
+            "audio": "bell",
+            "link": "eng-months.json"
         },
         {
             "text": "पिकांचे हंगाम",
             "audio": "bell",
-            "link": "crops.html",
-            "style": "card bg-c-pink item-card"
+            "link": "crops.json"
+        },
+        {
+            "text": "कडधान्य",
+            "audio": "bell",
+            "link": "kaddhanya.json"
         }
     ]
 }

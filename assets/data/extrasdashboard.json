@@ -1,0 +1,16 @@
+{
+    "dataFeed": [
+        {
+            "id": 1,
+            "text": "सोपे शब्द",
+            "audio": "bell",
+            "link": "simple-words.json"
+        },
+        {
+            "id": 2,
+            "text": "जोड शब्द",
+            "audio": "bell",
+            "link": "jod-shabd.json"
+        }
+    ]
+}

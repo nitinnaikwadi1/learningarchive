@@ -3,7 +3,7 @@
         {
             "name": "अस्वल - Black Bear",
             "item": "1",
-            "video": "assets/animals/black bear.mp4",
+            "video": "assets/animals/black_bear.mp4",
             "audio":""
         },
         {
@@ -81,7 +81,7 @@
         {
             "name": "ध्रुवीय अस्वल - Polar Bear",
             "item": "14",
-            "video": "assets/animals/polar bear.mp4",
+            "video": "assets/animals/polar_bear.mp4",
             "audio":""
         },
         {

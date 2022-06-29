@@ -1,5 +1,9 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
+import 'package:learningarchive/olakh/olakh_interactive_generic.dart';
+import 'package:learningarchive/olakh/olakh_interactive_photo_generic.dart';
+import 'package:learningarchive/olakh/olakh_interactive_video_generic.dart';
+import 'package:flutter_staggered_animations/flutter_staggered_animations.dart';
 
 class OlakhDashboard extends StatefulWidget {
   const OlakhDashboard({Key? key}) : super(key: key);
@@ -50,40 +54,91 @@ class _OlakhDashboardState extends State<OlakhDashboard> {
               // Decode the JSON
               final datashboardItems = json.decode(snapshot.data.toString());
               if (snapshot.hasData) {
-                return GridView.builder(
-                    gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                      crossAxisCount: responsiveAxisCount,
-                      childAspectRatio: (1 / .5),
-                      mainAxisSpacing: 0.8,
-                      crossAxisSpacing: 0.8,
-                    ),
-                    itemCount: datashboardItems["dataFeed"].length,
-                    itemBuilder: (BuildContext ctx, index) {
-                      return Card(
-                          elevation: 2,
-                          shadowColor: Colors.teal,
-                          shape: RoundedRectangleBorder(
-                              borderRadius: BorderRadius.circular(1)),
-                          child: InkWell(
-                              onTap: () {
-                                showNoAudioMsg(context);
-                              },
-                              child: Column(
-                                mainAxisSize: MainAxisSize.min,
-                                mainAxisAlignment: MainAxisAlignment.center,
-                                children: [
-                                  Text(
-                                      datashboardItems["dataFeed"][index]
-                                          ['text'],
-                                      style: const TextStyle(
-                                        fontFamily: 'Data',
-                                        fontSize: 24.0,
-                                        color: Color(0xff594a47),
-                                        fontWeight: FontWeight.bold,
-                                      ))
-                                ],
-                              )));
-                    });
+                return AnimationLimiter(
+                  child: GridView.builder(
+                      gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                        crossAxisCount: responsiveAxisCount,
+                        childAspectRatio: (1 / .5),
+                        mainAxisSpacing: 0.8,
+                        crossAxisSpacing: 0.8,
+                      ),
+                      itemCount: datashboardItems["dataFeed"].length,
+                      itemBuilder: (BuildContext ctx, index) {
+                        return AnimationConfiguration.staggeredGrid(
+                          position: index,
+                          duration: const Duration(milliseconds: 600),
+                          columnCount: responsiveAxisCount,
+                          child: ScaleAnimation(
+                            child: FadeInAnimation(
+                              child: Card(
+                                  elevation: 2,
+                                  shadowColor: Colors.teal,
+                                  shape: RoundedRectangleBorder(
+                                      borderRadius: BorderRadius.circular(1)),
+                                  child: InkWell(
+                                      onTap: () {
+                                        //showNoAudioMsg(context);
+
+                                        final String pageTitle =
+                                            datashboardItems["dataFeed"][index]
+                                                ['text'];
+                                        final String whichContent =
+                                            datashboardItems["dataFeed"][index]
+                                                ['link'];
+                                        if (whichContent == "flowers.json") {
+                                          Navigator.push(
+                                              context,
+                                              MaterialPageRoute(
+                                                builder: (context) =>
+                                                    OlakhInteractPhotoGeneric(
+                                                        pageTitle: pageTitle,
+                                                        whichContent:
+                                                            whichContent),
+                                              ));
+                                        } else if (whichContent ==
+                                            "marathi-months.json") {
+                                          Navigator.push(
+                                              context,
+                                              MaterialPageRoute(
+                                                builder: (context) =>
+                                                    OlakhInteractGeneric(
+                                                        pageTitle: pageTitle,
+                                                        whichContent:
+                                                            whichContent),
+                                              ));
+                                        } else {
+                                          Navigator.push(
+                                              context,
+                                              MaterialPageRoute(
+                                                builder: (context) =>
+                                                    OlakhInteractVideoGeneric(
+                                                        pageTitle: pageTitle,
+                                                        whichContent:
+                                                            whichContent),
+                                              ));
+                                        }
+                                      },
+                                      child: Column(
+                                        mainAxisSize: MainAxisSize.min,
+                                        mainAxisAlignment:
+                                            MainAxisAlignment.center,
+                                        children: [
+                                          Text(
+                                              datashboardItems["dataFeed"]
+                                                  [index]['text'],
+                                              style: const TextStyle(
+                                                fontFamily: 'Data',
+                                                fontSize: 24.0,
+                                                color: Color(0xff594a47),
+                                                fontWeight: FontWeight.bold,
+                                              ))
+                                        ],
+                                      ))),
+                            ),
+                          ),
+                        );
+                      }),
+                );
               } else {
                 return Container();
               }

@@ -39,10 +39,6 @@ class _CardSlideWidgetState extends State<CardSlideWidget> {
                             left: 20,
                             child: Transform.rotate(
                               angle: 12,
-                              //child: TagWidget(
-                              //text: 'Next',
-                              //color: Colors.green[400]!,
-                              //),
                             ),
                           )
                         : Positioned(
@@ -50,10 +46,6 @@ class _CardSlideWidgetState extends State<CardSlideWidget> {
                             right: 24,
                             child: Transform.rotate(
                               angle: -12,
-                              //child: TagWidget(
-                              // text: 'Previous',
-                              // color: Colors.red[400]!,
-                              //),
                             ),
                           )
                     : const SizedBox.shrink(),

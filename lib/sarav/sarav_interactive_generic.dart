@@ -39,6 +39,21 @@ class _SaravInteractGenericState extends State<SaravInteractGeneric> {
     }
   }
 
+  void showNoAudioMsg(BuildContext context) {
+    const snackBar = SnackBar(
+      content: Text(
+        'आवाज उपलब्ध नाही. Audio not available.',
+        style: TextStyle(
+            fontWeight: FontWeight.bold, fontSize: 18, color: Colors.black),
+      ),
+      backgroundColor: Colors.white,
+      behavior: SnackBarBehavior.floating,
+      margin: EdgeInsets.all(10),
+      duration: Duration(seconds: 2),
+    );
+    ScaffoldMessenger.of(context).showSnackBar(snackBar);
+  }
+
   renderRandomData() {
     if (widget.whichContent == 'words.json' ||
         widget.whichContent == '1to50.json' ||
@@ -65,9 +80,8 @@ class _SaravInteractGenericState extends State<SaravInteractGeneric> {
         });
       }
     } else if (!useMobileLayout && orientation == Orientation.portrait) {
-      // for words as well as numbers - only sarav cards
-      if (widget.whichContent == 'words.json' ||
-          widget.whichContent == '1to50.json') {
+      // for numbers - only sarav cards
+      if (widget.whichContent == '1to50.json') {
         setState(() {
           responsiveAxisCount = 3;
         });
@@ -79,18 +93,9 @@ class _SaravInteractGenericState extends State<SaravInteractGeneric> {
         });
       }
     } else {
-      // for words
-      if (widget.whichContent == 'words.json') {
-        setState(() {
-          responsiveAxisCount = 3;
-        });
-      }
-      // for all other data
-      else {
-        setState(() {
-          responsiveAxisCount = 6;
-        });
-      }
+      setState(() {
+        responsiveAxisCount = 6;
+      });
     }
   }
 
@@ -171,6 +176,8 @@ class _SaravInteractGenericState extends State<SaravInteractGeneric> {
                                       datashboardItemsList[index].audio +
                                       '.mp3');
                                   player.play();
+                                } else {
+                                  showNoAudioMsg(context);
                                 }
                               },
                               child: Column(
@@ -192,7 +199,7 @@ class _SaravInteractGenericState extends State<SaravInteractGeneric> {
                                     Text(datashboardItemsList[index].text,
                                         style: const TextStyle(
                                           fontFamily: 'Data',
-                                          fontSize: 32.0,
+                                          fontSize: 30.0,
                                           color: Colors.black54,
                                           fontWeight: FontWeight.bold,
                                         ))
@@ -245,12 +252,12 @@ class _SaravInteractGenericState extends State<SaravInteractGeneric> {
             )),
         centerTitle: true,
         actions: <Widget>[
-          if (widget.whichContent == "words.json" ||
-              widget.whichContent == "1to50.json")
+          if (widget.whichContent == "1to50.json")
             Padding(
                 padding: const EdgeInsets.only(right: 40.0),
                 child: GestureDetector(
                   onTap: () {
+                    //reload the current screen
                     setState(() {});
                   },
                   child: const Icon(
