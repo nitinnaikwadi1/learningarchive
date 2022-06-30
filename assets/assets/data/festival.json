@@ -1,0 +1,84 @@
+{
+    "dataFeed": [
+        {
+            "name": "गोल - January",
+            "shape": "assets/shapes/circle.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "घन - February",
+            "shape": "assets/shapes/cube.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "सप्तकोन - March",
+            "shape": "assets/shapes/heptagon.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "षट्कोन - April",
+            "shape": "assets/shapes/hexagon.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "रेष - Line",
+            "shape": "assets/shapes/line.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "अष्टकोन - Octegon",
+            "shape": "assets/shapes/octegon.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "लंबगोल - Oval",
+            "shape": "assets/shapes/oval.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "आयत - Rectangle",
+            "shape": "assets/shapes/rectangle.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "चौकोन - Square",
+            "shape": "assets/shapes/square.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "तारा - Star",
+            "shape": "assets/shapes/star.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "त्रिकोण - Triangle",
+            "shape": "assets/shapes/triangle.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "काटकोन - Right Triangle",
+            "shape": "assets/shapes/right triangle.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "अर्ध गोल - Half Circle",
+            "shape": "assets/shapes/half circle.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "शंकू - Cone",
+            "shape": "assets/shapes/cone.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "वृत्तचिती - Cylinder",
+            "shape": "assets/shapes/cylinder.mp4",
+            "textColor": "white"
+        },
+        {
+            "name": "पंचकोन - Pentagon",
+            "shape": "assets/shapes/pentagon.mp4",
+            "textColor": "white"
+        }
+    ]
+}

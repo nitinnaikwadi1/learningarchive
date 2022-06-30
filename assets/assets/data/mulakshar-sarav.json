@@ -1,0 +1,2529 @@
+{
+  "dataFeed": [
+    {
+      "id": "1",
+      "text": "अ",
+      "audio": "mulakshar-1-a"
+    },
+    {
+      "id": "2",
+      "text": "आ",
+      "audio": "mulakshar-2-aa"
+    },
+    {
+      "id": "3",
+      "text": "इ",
+      "audio": "mulakshar-3-e"
+    },
+    {
+      "id": "4",
+      "text": "ई",
+      "audio": "mulakshar-4-ie"
+    },
+    {
+      "id": "5",
+      "text": "उ",
+      "audio": "mulakshar-5-u"
+    },
+    {
+      "id": "6",
+      "text": "ऊ",
+      "audio": "mulakshar-6-uu"
+    },
+    {
+      "id": "7",
+      "text": "ए",
+      "audio": "mulakshar-7-aye"
+    },
+    {
+      "id": "8",
+      "text": "ऐ",
+      "audio": "mulakshar-8-aie"
+    },
+    {
+      "id": "9",
+      "text": "ओ",
+      "audio": "mulakshar-9-oo"
+    },
+    {
+      "id": "10",
+      "text": "औ",
+      "audio": "mulakshar-10-au"
+    },
+    {
+      "id": "11",
+      "text": "अं",
+      "audio": "mulakshar-11-um"
+    },
+    {
+      "id": "12",
+      "text": "अः",
+      "audio": "mulakshar-12-aha"
+    },
+    {
+      "id": "13",
+      "text": "क",
+      "audio": "mulakshar-13-ka"
+    },
+    {
+      "id": "14",
+      "text": "ख",
+      "audio": "mulakshar-14-kh"
+    },
+    {
+      "id": "15",
+      "text": "ग",
+      "audio": "mulakshar-15-ga"
+    },
+    {
+      "id": "16",
+      "text": "घ",
+      "audio": "mulakshar-16-gh"
+    },
+    {
+      "id": "17",
+      "text": "ङ",
+      "audio": "mulakshar-17-anga"
+    },
+    {
+      "id": "18",
+      "text": "च",
+      "audio": "mulakshar-18-ch"
+    },
+    {
+      "id": "19",
+      "text": "छ",
+      "audio": "mulakshar-19-cha"
+    },
+    {
+      "id": "20",
+      "text": "ज",
+      "audio": "mulakshar-20-ja"
+    },
+    {
+      "id": "21",
+      "text": "झ",
+      "audio": "mulakshar-21-jha"
+    },
+    {
+      "id": "22",
+      "text": "ञ",
+      "audio": "mulakshar-22-tra"
+    },
+    {
+      "id": "23",
+      "text": "ट",
+      "audio": "mulakshar-23-ta"
+    },
+    {
+      "id": "24",
+      "text": "ठ",
+      "audio": "mulakshar-24-tha"
+    },
+    {
+      "id": "25",
+      "text": "ड",
+      "audio": "mulakshar-25-da"
+    },
+    {
+      "id": "26",
+      "text": "ढ",
+      "audio": "mulakshar-26-dha"
+    },
+    {
+      "id": "27",
+      "text": "ण",
+      "audio": "mulakshar-27-na"
+    },
+    {
+      "id": "28",
+      "text": "त",
+      "audio": "mulakshar-28-ta"
+    },
+    {
+      "id": "29",
+      "text": "थ",
+      "audio": "mulakshar-29-tha"
+    },
+    {
+      "id": "30",
+      "text": "द",
+      "audio": "mulakshar-30-da"
+    },
+    {
+      "id": "31",
+      "text": "ध",
+      "audio": "mulakshar-31-dha"
+    },
+    {
+      "id": "32",
+      "text": "न",
+      "audio": "mulakshar-32-naa"
+    },
+    {
+      "id": "33",
+      "text": "प",
+      "audio": "mulakshar-33-pa"
+    },
+    {
+      "id": "34",
+      "text": "फ",
+      "audio": "mulakshar-34-pha"
+    },
+    {
+      "id": "35",
+      "text": "ब",
+      "audio": "mulakshar-35-ba"
+    },
+    {
+      "id": "36",
+      "text": "भ",
+      "audio": "mulakshar-36-bha"
+    },
+    {
+      "id": "37",
+      "text": "म",
+      "audio": "mulakshar-37-ma"
+    },
+    {
+      "id": "38",
+      "text": "य",
+      "audio": "mulakshar-38-ya"
+    },
+    {
+      "id": "39",
+      "text": "र",
+      "audio": "mulakshar-39-ra"
+    },
+    {
+      "id": "40",
+      "text": "ल",
+      "audio": "mulakshar-40-la"
+    },
+    {
+      "id": "41",
+      "text": "व",
+      "audio": "mulakshar-41-va"
+    },
+    {
+      "id": "42",
+      "text": "श",
+      "audio": "mulakshar-42-sh"
+    },
+    {
+      "id": "43",
+      "text": "ष",
+      "audio": "mulakshar-43-sha"
+    },
+    {
+      "id": "44",
+      "text": "स",
+      "audio": "mulakshar-44-sa"
+    },
+    {
+      "id": "45",
+      "text": "ह",
+      "audio": "mulakshar-45-ha"
+    },
+    {
+      "id": "46",
+      "text": "ळ",
+      "audio": "mulakshar-46-alaa"
+    },
+    {
+      "id": "47",
+      "text": "क्ष",
+      "audio": "mulakshar-47-ksha"
+    },
+    {
+      "id": "48",
+      "text": "ज्ञ",
+      "audio": "mulakshar-48-dnya"
+    },
+    {
+      "id": "0",
+      "text": "अं",
+      "audio": "anuswar-1-um"
+    },
+    {
+      "id": "1",
+      "text": "कं",
+      "audio": "anuswar-2-km"
+    },
+    {
+      "id": "2",
+      "text": "खं",
+      "audio": "anuswar-3-khm"
+    },
+    {
+      "id": "3",
+      "text": "गं",
+      "audio": "anuswar-4-gam"
+    },
+    {
+      "id": "4",
+      "text": "घं",
+      "audio": "anuswar-5-gham"
+    },
+    {
+      "id": "5",
+      "text": "चं",
+      "audio": "anuswar-6-cham"
+    },
+    {
+      "id": "6",
+      "text": "छं",
+      "audio": "anuswar-7-chhum"
+    },
+    {
+      "id": "7",
+      "text": "जं",
+      "audio": "anuswar-8-jm"
+    },
+    {
+      "id": "8",
+      "text": "झं",
+      "audio": "anuswar-9-zhm"
+    },
+    {
+      "id": "9",
+      "text": "ञं",
+      "audio": "anuswar-10-trm"
+    },
+    {
+      "id": "10",
+      "text": "टं",
+      "audio": "anuswar-11-tam"
+    },
+    {
+      "id": "11",
+      "text": "ठं",
+      "audio": "anuswar-12-thum"
+    },
+    {
+      "id": "12",
+      "text": "डं",
+      "audio": "anuswar-13-dum"
+    },
+    {
+      "id": "13",
+      "text": "ढं",
+      "audio": "anuswar-14-dhum"
+    },
+    {
+      "id": "14",
+      "text": "णं",
+      "audio": "anuswar-15-num"
+    },
+    {
+      "id": "15",
+      "text": "तं",
+      "audio": "anuswar-16-tum"
+    },
+    {
+      "id": "16",
+      "text": "थं",
+      "audio": "anuswar-17-thum"
+    },
+    {
+      "id": "17",
+      "text": "दं",
+      "audio": "anuswar-18-dumm"
+    },
+    {
+      "id": "18",
+      "text": "धं",
+      "audio": "anuswar-19-dhum"
+    },
+    {
+      "id": "19",
+      "text": "नं",
+      "audio": "anuswar-20-numm"
+    },
+    {
+      "id": "20",
+      "text": "पं",
+      "audio": "anuswar-21-pum"
+    },
+    {
+      "id": "21",
+      "text": "फं",
+      "audio": "anuswar-22-phum"
+    },
+    {
+      "id": "22",
+      "text": "बं",
+      "audio": "anuswar-23-bum"
+    },
+    {
+      "id": "23",
+      "text": "भं",
+      "audio": "anuswar-24-bhum"
+    },
+    {
+      "id": "24",
+      "text": "मं",
+      "audio": "anuswar-25-mum"
+    },
+    {
+      "id": "25",
+      "text": "यं",
+      "audio": "anuswar-26-yum"
+    },
+    {
+      "id": "26",
+      "text": "रं",
+      "audio": "anuswar-27-ram"
+    },
+    {
+      "id": "27",
+      "text": "लं",
+      "audio": "anuswar-28-lum"
+    },
+    {
+      "id": "28",
+      "text": "वं",
+      "audio": "anuswar-29-vam"
+    },
+    {
+      "id": "29",
+      "text": "शं",
+      "audio": "anuswar-30-shum"
+    },
+    {
+      "id": "30",
+      "text": "षं",
+      "audio": "anuswar-31-sham"
+    },
+    {
+      "id": "31",
+      "text": "सं",
+      "audio": "anuswar-32-sum"
+    },
+    {
+      "id": "32",
+      "text": "हं",
+      "audio": "anuswar-33-hum"
+    },
+    {
+      "id": "33",
+      "text": "ळं",
+      "audio": "anuswar-34-lum"
+    },
+    {
+      "id": "34",
+      "text": "क्षं",
+      "audio": "anuswar-35-kshm"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञं",
+      "audio": "anuswar-36-dnym"
+    },
+    {
+      "id": "1",
+      "text": "ॲ",
+      "audio": "ardhchandr-1-aya"
+    },
+    {
+      "id": "2",
+      "text": "कॅ",
+      "audio": "ardhchandr-2-kya"
+    },
+    {
+      "id": "3",
+      "text": "खॅ",
+      "audio": "ardhchandr-3-khya"
+    },
+    {
+      "id": "4",
+      "text": "गॅ",
+      "audio": "ardhchandr-4-gya"
+    },
+    {
+      "id": "5",
+      "text": "घॅ",
+      "audio": "ardhchandr-5-ghya"
+    },
+    {
+      "id": "6",
+      "text": "चॅ",
+      "audio": "ardhchandr-6-chya"
+    },
+    {
+      "id": "7",
+      "text": "छॅ",
+      "audio": "ardhchandr-7-chhya"
+    },
+    {
+      "id": "8",
+      "text": "जॅ",
+      "audio": "ardhchandr-8-jya"
+    },
+    {
+      "id": "9",
+      "text": "झॅ",
+      "audio": "ardhchandr-9-jhya"
+    },
+    {
+      "id": "10",
+      "text": "टॅ",
+      "audio": "ardhchandr-10-tya"
+    },
+    {
+      "id": "11",
+      "text": "ठॅ",
+      "audio": "ardhchandr-11-thya"
+    },
+    {
+      "id": "12",
+      "text": "डॅ",
+      "audio": "ardhchandr-12-dya"
+    },
+    {
+      "id": "13",
+      "text": "ढॅ",
+      "audio": "ardhchandr-13-dhya"
+    },
+    {
+      "id": "14",
+      "text": "णॅ",
+      "audio": "ardhchandr-14-nya"
+    },
+    {
+      "id": "15",
+      "text": "तॅ",
+      "audio": "ardhchandr-15-tya"
+    },
+    {
+      "id": "16",
+      "text": "थॅ",
+      "audio": "ardhchandr-16-thya"
+    },
+    {
+      "id": "17",
+      "text": "दॅ",
+      "audio": "ardhchandr-17-dyaa"
+    },
+    {
+      "id": "18",
+      "text": "धॅ",
+      "audio": "ardhchandr-18-dhyaa"
+    },
+    {
+      "id": "19",
+      "text": "नॅ",
+      "audio": "ardhchandr-19-nyaa"
+    },
+    {
+      "id": "20",
+      "text": "पॅ",
+      "audio": "ardhchandr-20-pya"
+    },
+    {
+      "id": "21",
+      "text": "फॅ",
+      "audio": "ardhchandr-21-phya"
+    },
+    {
+      "id": "22",
+      "text": "बॅ",
+      "audio": "ardhchandr-22-bya"
+    },
+    {
+      "id": "23",
+      "text": "भॅ",
+      "audio": "ardhchandr-23-bhya"
+    },
+    {
+      "id": "24",
+      "text": "मॅ",
+      "audio": "ardhchandr-24-mya"
+    },
+    {
+      "id": "25",
+      "text": "यॅ",
+      "audio": "ardhchandr-25-ya"
+    },
+    {
+      "id": "26",
+      "text": "रॅ",
+      "audio": "ardhchandr-26-rya"
+    },
+    {
+      "id": "27",
+      "text": "लॅ",
+      "audio": "ardhchandr-27-lya"
+    },
+    {
+      "id": "28",
+      "text": "वॅ",
+      "audio": "ardhchandr-28-vya"
+    },
+    {
+      "id": "29",
+      "text": "शॅ",
+      "audio": "ardhchandr-29-shya"
+    },
+    {
+      "id": "30",
+      "text": "षॅ",
+      "audio": "ardhchandr-30-shyaa"
+    },
+    {
+      "id": "31",
+      "text": "सॅ",
+      "audio": "ardhchandr-31-sya"
+    },
+    {
+      "id": "32",
+      "text": "हॅ",
+      "audio": "ardhchandr-32-hya"
+    },
+    {
+      "id": "33",
+      "text": "ळॅ",
+      "audio": "ardhchandr-33-lyaa"
+    },
+    {
+      "id": "34",
+      "text": "क्षॅ",
+      "audio": "ardhchandr-34-kshya"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञॅ",
+      "audio": "ardhchandr-35-dnya"
+    },
+    {
+      "id": "1",
+      "text": "कै",
+      "audio": "donmatra-1-kai"
+    },
+    {
+      "id": "2",
+      "text": "खै",
+      "audio": "donmatra-2-khai"
+    },
+    {
+      "id": "3",
+      "text": "गै",
+      "audio": "donmatra-3-gai"
+    },
+    {
+      "id": "4",
+      "text": "घै",
+      "audio": "donmatra-4-ghai"
+    },
+    {
+      "id": "5",
+      "text": "चै",
+      "audio": "donmatra-5-chai"
+    },
+    {
+      "id": "6",
+      "text": "छै",
+      "audio": "donmatra-6-chhai"
+    },
+    {
+      "id": "7",
+      "text": "जै",
+      "audio": "donmatra-7-jai"
+    },
+    {
+      "id": "8",
+      "text": "झै",
+      "audio": "donmatra-8-jhai"
+    },
+    {
+      "id": "9",
+      "text": "ञै",
+      "audio": "donmatra-9-trai"
+    },
+    {
+      "id": "10",
+      "text": "टै",
+      "audio": "donmatra-10-taii"
+    },
+    {
+      "id": "11",
+      "text": "ठै",
+      "audio": "donmatra-11-thaii"
+    },
+    {
+      "id": "12",
+      "text": "डै",
+      "audio": "donmatra-12-daii"
+    },
+    {
+      "id": "13",
+      "text": "ढै",
+      "audio": "donmatra-13-dhaii"
+    },
+    {
+      "id": "14",
+      "text": "णै",
+      "audio": "donmatra-14-naii"
+    },
+    {
+      "id": "15",
+      "text": "तै",
+      "audio": "donmatra-15-taii"
+    },
+    {
+      "id": "16",
+      "text": "थै",
+      "audio": "donmatra-16-thaii"
+    },
+    {
+      "id": "17",
+      "text": "दै",
+      "audio": "donmatra-17-daaii"
+    },
+    {
+      "id": "18",
+      "text": "धै",
+      "audio": "donmatra-18-dhaaii"
+    },
+    {
+      "id": "19",
+      "text": "नै",
+      "audio": "donmatra-19-naii"
+    },
+    {
+      "id": "20",
+      "text": "पै",
+      "audio": "donmatra-20-paii"
+    },
+    {
+      "id": "21",
+      "text": "फै",
+      "audio": "donmatra-21-phaii"
+    },
+    {
+      "id": "22",
+      "text": "बै",
+      "audio": "donmatra-22-baii"
+    },
+    {
+      "id": "23",
+      "text": "भै",
+      "audio": "donmatra-23-bhaii"
+    },
+    {
+      "id": "24",
+      "text": "मै",
+      "audio": "donmatra-24-maii"
+    },
+    {
+      "id": "25",
+      "text": "यै",
+      "audio": "donmatra-25-yaii"
+    },
+    {
+      "id": "26",
+      "text": "रै",
+      "audio": "donmatra-26-raii"
+    },
+    {
+      "id": "27",
+      "text": "लै",
+      "audio": "donmatra-27-laii"
+    },
+    {
+      "id": "28",
+      "text": "वै",
+      "audio": "donmatra-28-vaii"
+    },
+    {
+      "id": "29",
+      "text": "शै",
+      "audio": "donmatra-29-shai"
+    },
+    {
+      "id": "30",
+      "text": "षै",
+      "audio": "donmatra-30-shaii"
+    },
+    {
+      "id": "31",
+      "text": "सै",
+      "audio": "donmatra-31-saii"
+    },
+    {
+      "id": "32",
+      "text": "है",
+      "audio": "donmatra-32-haii"
+    },
+    {
+      "id": "33",
+      "text": "ळै",
+      "audio": "donmatra-33-alai"
+    },
+    {
+      "id": "34",
+      "text": "क्षै",
+      "audio": "donmatra-34-kshai"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञै",
+      "audio": "donmatra-35-dnyai"
+    },
+    {
+      "id": "1",
+      "text": "कू",
+      "audio": "dusraukar-1-ku"
+    },
+    {
+      "id": "2",
+      "text": "खू",
+      "audio": "dusraukar-2-khu"
+    },
+    {
+      "id": "3",
+      "text": "गू",
+      "audio": "dusraukar-3-gu"
+    },
+    {
+      "id": "4",
+      "text": "घू",
+      "audio": "dusraukar-4-ghu"
+    },
+    {
+      "id": "5",
+      "text": "चू",
+      "audio": "dusraukar-5-chu"
+    },
+    {
+      "id": "6",
+      "text": "छू",
+      "audio": "dusraukar-6-choo"
+    },
+    {
+      "id": "7",
+      "text": "जू",
+      "audio": "dusraukar-7-ju"
+    },
+    {
+      "id": "8",
+      "text": "झू",
+      "audio": "dusraukar-8-jhu"
+    },
+    {
+      "id": "9",
+      "text": "ञू",
+      "audio": "dusraukar-9-tru"
+    },
+    {
+      "id": "10",
+      "text": "टू",
+      "audio": "dusraukar-10-tu"
+    },
+    {
+      "id": "11",
+      "text": "ठू",
+      "audio": "dusraukar-11-thu"
+    },
+    {
+      "id": "12",
+      "text": "डू",
+      "audio": "dusraukar-12-du"
+    },
+    {
+      "id": "13",
+      "text": "ढू",
+      "audio": "dusraukar-13-dhu"
+    },
+    {
+      "id": "14",
+      "text": "णू",
+      "audio": "dusraukar-14-nu"
+    },
+    {
+      "id": "15",
+      "text": "तू",
+      "audio": "dusraukar-15-tu"
+    },
+    {
+      "id": "16",
+      "text": "थू",
+      "audio": "dusraukar-16-thu"
+    },
+    {
+      "id": "17",
+      "text": "दू",
+      "audio": "dusraukar-17-doo"
+    },
+    {
+      "id": "18",
+      "text": "धू",
+      "audio": "dusraukar-18-dhoo"
+    },
+    {
+      "id": "19",
+      "text": "नू",
+      "audio": "dusraukar-19-noo"
+    },
+    {
+      "id": "20",
+      "text": "पू",
+      "audio": "dusraukar-20-pu"
+    },
+    {
+      "id": "21",
+      "text": "फू",
+      "audio": "dusraukar-21-phu"
+    },
+    {
+      "id": "22",
+      "text": "बू",
+      "audio": "dusraukar-22-bu"
+    },
+    {
+      "id": "23",
+      "text": "भू",
+      "audio": "dusraukar-23-bhu"
+    },
+    {
+      "id": "24",
+      "text": "मू",
+      "audio": "dusraukar-24-mu"
+    },
+    {
+      "id": "25",
+      "text": "यू",
+      "audio": "dusraukar-25-yu"
+    },
+    {
+      "id": "26",
+      "text": "रू",
+      "audio": "dusraukar-26-ru"
+    },
+    {
+      "id": "27",
+      "text": "लू",
+      "audio": "dusraukar-27-lu"
+    },
+    {
+      "id": "28",
+      "text": "वू",
+      "audio": "dusraukar-28-vu"
+    },
+    {
+      "id": "29",
+      "text": "शू",
+      "audio": "dusraukar-29-shu"
+    },
+    {
+      "id": "30",
+      "text": "षू",
+      "audio": "dusraukar-30-shuu"
+    },
+    {
+      "id": "31",
+      "text": "सू",
+      "audio": "dusraukar-31-su"
+    },
+    {
+      "id": "32",
+      "text": "हू",
+      "audio": "dusraukar-32-hu"
+    },
+    {
+      "id": "33",
+      "text": "ळू",
+      "audio": "dusraukar-33-loo"
+    },
+    {
+      "id": "34",
+      "text": "क्षू",
+      "audio": "dusraukar-34-kshu"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञू",
+      "audio": "dusraukar-35-dnyu"
+    },
+    {
+      "id": "1",
+      "text": "की",
+      "audio": "dusriwelanti-1-ki"
+    },
+    {
+      "id": "2",
+      "text": "खी",
+      "audio": "dusriwelanti-2-khi"
+    },
+    {
+      "id": "3",
+      "text": "गी",
+      "audio": "dusriwelanti-3-gi"
+    },
+    {
+      "id": "4",
+      "text": "घी",
+      "audio": "dusriwelanti-4-ghi"
+    },
+    {
+      "id": "5",
+      "text": "ची",
+      "audio": "dusriwelanti-5-chi"
+    },
+    {
+      "id": "6",
+      "text": "छी",
+      "audio": "dusriwelanti-6-chee"
+    },
+    {
+      "id": "7",
+      "text": "जी",
+      "audio": "dusriwelanti-7-ji"
+    },
+    {
+      "id": "8",
+      "text": "झी",
+      "audio": "dusriwelanti-8-jhi"
+    },
+    {
+      "id": "9",
+      "text": "ञी",
+      "audio": "dusriwelanti-9-tri"
+    },
+    {
+      "id": "10",
+      "text": "टी",
+      "audio": "dusriwelanti-10-ti"
+    },
+    {
+      "id": "11",
+      "text": "ठी",
+      "audio": "dusriwelanti-11-thi"
+    },
+    {
+      "id": "12",
+      "text": "डी",
+      "audio": "dusriwelanti-12-di"
+    },
+    {
+      "id": "13",
+      "text": "ढी",
+      "audio": "dusriwelanti-13-dhi"
+    },
+    {
+      "id": "14",
+      "text": "णी",
+      "audio": "dusriwelanti-14-ni"
+    },
+    {
+      "id": "15",
+      "text": "ती",
+      "audio": "dusriwelanti-15-ti"
+    },
+    {
+      "id": "16",
+      "text": "थी",
+      "audio": "dusriwelanti-16-thee"
+    },
+    {
+      "id": "17",
+      "text": "दी",
+      "audio": "dusriwelanti-17-dee"
+    },
+    {
+      "id": "18",
+      "text": "धी",
+      "audio": "dusriwelanti-18-dhi"
+    },
+    {
+      "id": "19",
+      "text": "नी",
+      "audio": "dusriwelanti-19-ni"
+    },
+    {
+      "id": "20",
+      "text": "पी",
+      "audio": "dusriwelanti-20-pi"
+    },
+    {
+      "id": "21",
+      "text": "फी",
+      "audio": "dusriwelanti-21-phi"
+    },
+    {
+      "id": "22",
+      "text": "बी",
+      "audio": "dusriwelanti-22-bi"
+    },
+    {
+      "id": "23",
+      "text": "भी",
+      "audio": "dusriwelanti-23-bhi"
+    },
+    {
+      "id": "24",
+      "text": "मी",
+      "audio": "dusriwelanti-24-mi"
+    },
+    {
+      "id": "25",
+      "text": "यी",
+      "audio": "dusriwelanti-25-yi"
+    },
+    {
+      "id": "26",
+      "text": "री",
+      "audio": "dusriwelanti-26-ri"
+    },
+    {
+      "id": "27",
+      "text": "ली",
+      "audio": "dusriwelanti-27-li"
+    },
+    {
+      "id": "28",
+      "text": "वी",
+      "audio": "dusriwelanti-28-vi"
+    },
+    {
+      "id": "29",
+      "text": "शी",
+      "audio": "dusriwelanti-29-shi"
+    },
+    {
+      "id": "30",
+      "text": "षी",
+      "audio": "dusriwelanti-30-shii"
+    },
+    {
+      "id": "31",
+      "text": "सी",
+      "audio": "dusriwelanti-31-si"
+    },
+    {
+      "id": "32",
+      "text": "ही",
+      "audio": "dusriwelanti-32-hi"
+    },
+    {
+      "id": "33",
+      "text": "ळी",
+      "audio": "dusriwelanti-33-lii"
+    },
+    {
+      "id": "34",
+      "text": "क्षी",
+      "audio": "dusriwelanti-34-kshi"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञी",
+      "audio": "dusriwelanti-35-dnyii"
+    },
+    {
+      "id": "1",
+      "text": "के",
+      "audio": "ekmatra-1-ke"
+    },
+    {
+      "id": "2",
+      "text": "खे",
+      "audio": "ekmatra-2-khe"
+    },
+    {
+      "id": "3",
+      "text": "गे",
+      "audio": "ekmatra-3-ge"
+    },
+    {
+      "id": "4",
+      "text": "घे",
+      "audio": "ekmatra-4-ghe"
+    },
+    {
+      "id": "5",
+      "text": "चे",
+      "audio": "ekmatra-5-che"
+    },
+    {
+      "id": "6",
+      "text": "छे",
+      "audio": "ekmatra-6-chey"
+    },
+    {
+      "id": "7",
+      "text": "जे",
+      "audio": "ekmatra-7-je"
+    },
+    {
+      "id": "8",
+      "text": "झे",
+      "audio": "ekmatra-8-jhe"
+    },
+    {
+      "id": "9",
+      "text": "ञे",
+      "audio": "ekmatra-9-tre"
+    },
+    {
+      "id": "10",
+      "text": "टे",
+      "audio": "ekmatra-10-te"
+    },
+    {
+      "id": "11",
+      "text": "ठे",
+      "audio": "ekmatra-11-the"
+    },
+    {
+      "id": "12",
+      "text": "डे",
+      "audio": "ekmatra-12-de"
+    },
+    {
+      "id": "13",
+      "text": "ढे",
+      "audio": "ekmatra-13-dhe"
+    },
+    {
+      "id": "14",
+      "text": "णे",
+      "audio": "ekmatra-14-ne"
+    },
+    {
+      "id": "15",
+      "text": "ते",
+      "audio": "ekmatra-15-tey"
+    },
+    {
+      "id": "16",
+      "text": "थे",
+      "audio": "ekmatra-17-they"
+    },
+    {
+      "id": "17",
+      "text": "दे",
+      "audio": "ekmatra-16-dey"
+    },
+    {
+      "id": "18",
+      "text": "धे",
+      "audio": "ekmatra-18-dhey"
+    },
+    {
+      "id": "19",
+      "text": "ने",
+      "audio": "ekmatra-19-ney"
+    },
+    {
+      "id": "20",
+      "text": "पे",
+      "audio": "ekmatra-20-pe"
+    },
+    {
+      "id": "21",
+      "text": "फे",
+      "audio": "ekmatra-21-phe"
+    },
+    {
+      "id": "22",
+      "text": "बे",
+      "audio": "ekmatra-22-be"
+    },
+    {
+      "id": "23",
+      "text": "भे",
+      "audio": "ekmatra-23-bhe"
+    },
+    {
+      "id": "24",
+      "text": "मे",
+      "audio": "ekmatra-24-mey"
+    },
+    {
+      "id": "25",
+      "text": "ये",
+      "audio": "ekmatra-25-ye"
+    },
+    {
+      "id": "26",
+      "text": "रे",
+      "audio": "ekmatra-26-rey"
+    },
+    {
+      "id": "27",
+      "text": "ले",
+      "audio": "ekmatra-27-ley"
+    },
+    {
+      "id": "28",
+      "text": "वे",
+      "audio": "ekmatra-28-wey"
+    },
+    {
+      "id": "29",
+      "text": "शे",
+      "audio": "ekmatra-29-shey"
+    },
+    {
+      "id": "30",
+      "text": "षे",
+      "audio": "ekmatra-30-sheye"
+    },
+    {
+      "id": "31",
+      "text": "से",
+      "audio": "ekmatra-31-sey"
+    },
+    {
+      "id": "32",
+      "text": "हे",
+      "audio": "ekmatra-32-hay"
+    },
+    {
+      "id": "33",
+      "text": "ळे",
+      "audio": "ekmatra-33-aley"
+    },
+    {
+      "id": "34",
+      "text": "क्षे",
+      "audio": "ekmatra-34-kshey"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञे",
+      "audio": "ekmatra-35-dney"
+    },
+    {
+      "id": "1",
+      "text": "ऑ",
+      "audio": "kanaardhchandr-1-au"
+    },
+    {
+      "id": "2",
+      "text": "कॉ",
+      "audio": "kanaardhchandr-2-kau"
+    },
+    {
+      "id": "3",
+      "text": "खॉ",
+      "audio": "kanaardhchandr-3-khau"
+    },
+    {
+      "id": "4",
+      "text": "गॉ",
+      "audio": "kanaardhchandr-4-gau"
+    },
+    {
+      "id": "5",
+      "text": "घॉ",
+      "audio": "kanaardhchandr-5-ghau"
+    },
+    {
+      "id": "6",
+      "text": "चॉ",
+      "audio": "kanaardhchandr-6-chau"
+    },
+    {
+      "id": "7",
+      "text": "छॉ",
+      "audio": "kanaardhchandr-7-chhau"
+    },
+    {
+      "id": "8",
+      "text": "जॉ",
+      "audio": "kanaardhchandr-8-jau"
+    },
+    {
+      "id": "9",
+      "text": "झॉ",
+      "audio": "kanaardhchandr-9-zau"
+    },
+    {
+      "id": "10",
+      "text": "टॉ",
+      "audio": "kanaardhchandr-10-tau"
+    },
+    {
+      "id": "11",
+      "text": "ठॉ",
+      "audio": "kanaardhchandr-11-thau"
+    },
+    {
+      "id": "12",
+      "text": "डॉ",
+      "audio": "kanaardhchandr-12-dau"
+    },
+    {
+      "id": "13",
+      "text": "ढॉ",
+      "audio": "kanaardhchandr-13-dhau"
+    },
+    {
+      "id": "14",
+      "text": "णॉ",
+      "audio": "kanaardhchandr-14-nau"
+    },
+    {
+      "id": "15",
+      "text": "तॉ",
+      "audio": "kanaardhchandr-15-tau"
+    },
+    {
+      "id": "16",
+      "text": "थॉ",
+      "audio": "kanaardhchandr-16-thau"
+    },
+    {
+      "id": "17",
+      "text": "दॉ",
+      "audio": "kanaardhchandr-17-dau"
+    },
+    {
+      "id": "18",
+      "text": "धॉ",
+      "audio": "kanaardhchandr-18-dhaau"
+    },
+    {
+      "id": "19",
+      "text": "नॉ",
+      "audio": "kanaardhchandr-19-naau"
+    },
+    {
+      "id": "20",
+      "text": "पॉ",
+      "audio": "kanaardhchandr-20-paau"
+    },
+    {
+      "id": "21",
+      "text": "फॉ",
+      "audio": "kanaardhchandr-21-phaau"
+    },
+    {
+      "id": "22",
+      "text": "बॉ",
+      "audio": "kanaardhchandr-22-bau"
+    },
+    {
+      "id": "23",
+      "text": "भॉ",
+      "audio": "kanaardhchandr-23-bhau"
+    },
+    {
+      "id": "24",
+      "text": "मॉ",
+      "audio": "kanaardhchandr-24-mau"
+    },
+    {
+      "id": "25",
+      "text": "यॉ",
+      "audio": "kanaardhchandr-25-yau"
+    },
+    {
+      "id": "26",
+      "text": "रॉ",
+      "audio": "kanaardhchandr-26-rau"
+    },
+    {
+      "id": "27",
+      "text": "लॉ",
+      "audio": "kanaardhchandr-27-lau"
+    },
+    {
+      "id": "28",
+      "text": "वॉ",
+      "audio": "kanaardhchandr-28-vau"
+    },
+    {
+      "id": "29",
+      "text": "शॉ",
+      "audio": "kanaardhchandr-29-shau"
+    },
+    {
+      "id": "30",
+      "text": "षॉ",
+      "audio": "kanaardhchandr-30-shauu"
+    },
+    {
+      "id": "31",
+      "text": "सॉ",
+      "audio": "kanaardhchandr-31-sau"
+    },
+    {
+      "id": "32",
+      "text": "हॉ",
+      "audio": "kanaardhchandr-32-hau"
+    },
+    {
+      "id": "33",
+      "text": "ळॉ",
+      "audio": "kanaardhchandr-33-lauu"
+    },
+    {
+      "id": "34",
+      "text": "क्षॉ",
+      "audio": "kanaardhchandr-34-kshau"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञॉ",
+      "audio": "kanaardhchandr-35-dnyau"
+    },
+    {
+      "id": "1",
+      "text": "कौ",
+      "audio": "kanadonmatra-1-kau"
+    },
+    {
+      "id": "2",
+      "text": "खौ",
+      "audio": "kanadonmatra-2-khau"
+    },
+    {
+      "id": "3",
+      "text": "गौ",
+      "audio": "kanadonmatra-3-gau"
+    },
+    {
+      "id": "4",
+      "text": "घौ",
+      "audio": "kanadonmatra-4-ghau"
+    },
+    {
+      "id": "5",
+      "text": "चौ",
+      "audio": "kanadonmatra-5-chau"
+    },
+    {
+      "id": "6",
+      "text": "छौ",
+      "audio": "kanadonmatra-6-chhau"
+    },
+    {
+      "id": "7",
+      "text": "जौ",
+      "audio": "kanadonmatra-7-jau"
+    },
+    {
+      "id": "8",
+      "text": "झौ",
+      "audio": "kanadonmatra-8-jhau"
+    },
+    {
+      "id": "9",
+      "text": "ञौ",
+      "audio": "kanadonmatra-9-trau"
+    },
+    {
+      "id": "10",
+      "text": "टौ",
+      "audio": "kanadonmatra-10-tau"
+    },
+    {
+      "id": "11",
+      "text": "ठौ",
+      "audio": "kanadonmatra-11-thau"
+    },
+    {
+      "id": "12",
+      "text": "डौ",
+      "audio": "kanadonmatra-12-dau"
+    },
+    {
+      "id": "13",
+      "text": "ढौ",
+      "audio": "kanadonmatra-13-dhau"
+    },
+    {
+      "id": "14",
+      "text": "णौ",
+      "audio": "kanadonmatra-14-nau"
+    },
+    {
+      "id": "15",
+      "text": "तौ",
+      "audio": "kanadonmatra-15-tau"
+    },
+    {
+      "id": "16",
+      "text": "थौ",
+      "audio": "kanadonmatra-16-thau"
+    },
+    {
+      "id": "17",
+      "text": "दौ",
+      "audio": "kanadonmatra-17-daau"
+    },
+    {
+      "id": "18",
+      "text": "धौ",
+      "audio": "kanadonmatra-18-dhaau"
+    },
+    {
+      "id": "19",
+      "text": "नौ",
+      "audio": "kanadonmatra-19-nauu"
+    },
+    {
+      "id": "20",
+      "text": "पौ",
+      "audio": "kanadonmatra-20-pau"
+    },
+    {
+      "id": "21",
+      "text": "फौ",
+      "audio": "kanadonmatra-21-phau"
+    },
+    {
+      "id": "22",
+      "text": "बौ",
+      "audio": "kanadonmatra-22-bau"
+    },
+    {
+      "id": "23",
+      "text": "भौ",
+      "audio": "kanadonmatra-23-bhau"
+    },
+    {
+      "id": "24",
+      "text": "मौ",
+      "audio": "kanadonmatra-24-mau"
+    },
+    {
+      "id": "25",
+      "text": "यौ",
+      "audio": "kanadonmatra-25-yau"
+    },
+    {
+      "id": "26",
+      "text": "रौ",
+      "audio": "kanadonmatra-26-rau"
+    },
+    {
+      "id": "27",
+      "text": "लौ",
+      "audio": "kanadonmatra-27-lau"
+    },
+    {
+      "id": "28",
+      "text": "वौ",
+      "audio": "kanadonmatra-28-vau"
+    },
+    {
+      "id": "29",
+      "text": "शौ",
+      "audio": "kanadonmatra-29-shau"
+    },
+    {
+      "id": "30",
+      "text": "षौ",
+      "audio": "kanadonmatra-30-shauu"
+    },
+    {
+      "id": "31",
+      "text": "सौ",
+      "audio": "kanadonmatra-31-sau"
+    },
+    {
+      "id": "32",
+      "text": "हौ",
+      "audio": "kanadonmatra-32-hau"
+    },
+    {
+      "id": "33",
+      "text": "ळौ",
+      "audio": "kanadonmatra-33-alauu"
+    },
+    {
+      "id": "34",
+      "text": "क्षौ",
+      "audio": "kanadonmatra-34-kshau"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञौ",
+      "audio": "kanadonmatra-35-dnyau"
+    },
+    {
+      "id": "0",
+      "text": "ओ",
+      "audio": "kanaekmatra-0-oo"
+    },
+    {
+      "id": "1",
+      "text": "को",
+      "audio": "kanaekmatra-1-ko"
+    },
+    {
+      "id": "2",
+      "text": "खो",
+      "audio": "kanaekmatra-2-kho"
+    },
+    {
+      "id": "3",
+      "text": "गो",
+      "audio": "kanaekmatra-3-go"
+    },
+    {
+      "id": "4",
+      "text": "घो",
+      "audio": "kanaekmatra-4-gho"
+    },
+    {
+      "id": "5",
+      "text": "चो",
+      "audio": "kanaekmatra-5-cho"
+    },
+    {
+      "id": "6",
+      "text": "छो",
+      "audio": "kanaekmatra-6-chho"
+    },
+    {
+      "id": "7",
+      "text": "जो",
+      "audio": "kanaekmatra-7-jo"
+    },
+    {
+      "id": "8",
+      "text": "झो",
+      "audio": "kanaekmatra-8-jho"
+    },
+    {
+      "id": "9",
+      "text": "ञो",
+      "audio": "kanaekmatra-9-tro"
+    },
+    {
+      "id": "10",
+      "text": "टो",
+      "audio": "kanaekmatra-10-to"
+    },
+    {
+      "id": "11",
+      "text": "ठो",
+      "audio": "kanaekmatra-11-tho"
+    },
+    {
+      "id": "12",
+      "text": "डो",
+      "audio": "kanaekmatra-12-do"
+    },
+    {
+      "id": "13",
+      "text": "ढो",
+      "audio": "kanaekmatra-13-dho"
+    },
+    {
+      "id": "14",
+      "text": "णो",
+      "audio": "kanaekmatra-14-no"
+    },
+    {
+      "id": "15",
+      "text": "तो",
+      "audio": "kanaekmatra-15-to"
+    },
+    {
+      "id": "16",
+      "text": "थो",
+      "audio": "kanaekmatra-16-tho"
+    },
+    {
+      "id": "17",
+      "text": "दो",
+      "audio": "kanaekmatra-17-doo"
+    },
+    {
+      "id": "18",
+      "text": "धो",
+      "audio": "kanaekmatra-18-dhoo"
+    },
+    {
+      "id": "19",
+      "text": "नो",
+      "audio": "kanaekmatra-19-noo"
+    },
+    {
+      "id": "20",
+      "text": "पो",
+      "audio": "kanaekmatra-20-po"
+    },
+    {
+      "id": "21",
+      "text": "फो",
+      "audio": "kanaekmatra-21-pho"
+    },
+    {
+      "id": "22",
+      "text": "बो",
+      "audio": "kanaekmatra-22-bo"
+    },
+    {
+      "id": "23",
+      "text": "भो",
+      "audio": "kanaekmatra-23-bho"
+    },
+    {
+      "id": "24",
+      "text": "मो",
+      "audio": "kanaekmatra-24-mo"
+    },
+    {
+      "id": "25",
+      "text": "यो",
+      "audio": "kanaekmatra-25-yo"
+    },
+    {
+      "id": "26",
+      "text": "रो",
+      "audio": "kanaekmatra-26-ro"
+    },
+    {
+      "id": "27",
+      "text": "लो",
+      "audio": "kanaekmatra-27-lo"
+    },
+    {
+      "id": "28",
+      "text": "वो",
+      "audio": "kanaekmatra-28-wo"
+    },
+    {
+      "id": "29",
+      "text": "शो",
+      "audio": "kanaekmatra-29-sho"
+    },
+    {
+      "id": "30",
+      "text": "षो",
+      "audio": "kanaekmatra-30-shoo"
+    },
+    {
+      "id": "31",
+      "text": "सो",
+      "audio": "kanaekmatra-31-so"
+    },
+    {
+      "id": "32",
+      "text": "हो",
+      "audio": "kanaekmatra-32-ho"
+    },
+    {
+      "id": "33",
+      "text": "ळो",
+      "audio": "kanaekmatra-33-alo"
+    },
+    {
+      "id": "34",
+      "text": "क्षो",
+      "audio": "kanaekmatra-34-ksho"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञो",
+      "audio": "kanaekmatra-35-dnyo"
+    },
+    {
+      "id": "1",
+      "text": "का",
+      "audio": "kana-1-kaa"
+    },
+    {
+      "id": "2",
+      "text": "खा",
+      "audio": "kana-2-khaa"
+    },
+    {
+      "id": "3",
+      "text": "गा",
+      "audio": "kana-3-gaa"
+    },
+    {
+      "id": "4",
+      "text": "घा",
+      "audio": "kana-4-ghaa"
+    },
+    {
+      "id": "5",
+      "text": "चा",
+      "audio": "kana-5-chaa"
+    },
+    {
+      "id": "6",
+      "text": "छा",
+      "audio": "kana-6-chaa"
+    },
+    {
+      "id": "7",
+      "text": "जा",
+      "audio": "kana-7-jaa"
+    },
+    {
+      "id": "8",
+      "text": "झा",
+      "audio": "kana-8-jhaa"
+    },
+    {
+      "id": "9",
+      "text": "ञा",
+      "audio": "kana-9-traa"
+    },
+    {
+      "id": "10",
+      "text": "टा",
+      "audio": "kana-10-taa"
+    },
+    {
+      "id": "11",
+      "text": "ठा",
+      "audio": "kana-11-thaa"
+    },
+    {
+      "id": "12",
+      "text": "डा",
+      "audio": "kana-12-daa"
+    },
+    {
+      "id": "13",
+      "text": "ढा",
+      "audio": "kana-13-dhaa"
+    },
+    {
+      "id": "14",
+      "text": "णा",
+      "audio": "kana-14-naa"
+    },
+    {
+      "id": "15",
+      "text": "ता",
+      "audio": "kana-15-taa"
+    },
+    {
+      "id": "16",
+      "text": "था",
+      "audio": "kana-16-thaa"
+    },
+    {
+      "id": "17",
+      "text": "दा",
+      "audio": "kana-17-daaa"
+    },
+    {
+      "id": "18",
+      "text": "धा",
+      "audio": "kana-18-dhaaa"
+    },
+    {
+      "id": "19",
+      "text": "ना",
+      "audio": "kana-19-naa"
+    },
+    {
+      "id": "20",
+      "text": "पा",
+      "audio": "kana-20-paa"
+    },
+    {
+      "id": "21",
+      "text": "फा",
+      "audio": "kana-21-phaa"
+    },
+    {
+      "id": "22",
+      "text": "बा",
+      "audio": "kana-22-baa"
+    },
+    {
+      "id": "23",
+      "text": "भा",
+      "audio": "kana-23-bhaa"
+    },
+    {
+      "id": "24",
+      "text": "मा",
+      "audio": "kana-24-maa"
+    },
+    {
+      "id": "25",
+      "text": "या",
+      "audio": "kana-25-yaa"
+    },
+    {
+      "id": "26",
+      "text": "रा",
+      "audio": "kana-26-raa"
+    },
+    {
+      "id": "27",
+      "text": "ला",
+      "audio": "kana-27-laa"
+    },
+    {
+      "id": "28",
+      "text": "वा",
+      "audio": "kana-28-vaa"
+    },
+    {
+      "id": "29",
+      "text": "शा",
+      "audio": "kana-29-shaa"
+    },
+    {
+      "id": "30",
+      "text": "षा",
+      "audio": "kana-30-shaaa"
+    },
+    {
+      "id": "31",
+      "text": "सा",
+      "audio": "kana-31-saa"
+    },
+    {
+      "id": "32",
+      "text": "हा",
+      "audio": "kana-32-haa"
+    },
+    {
+      "id": "33",
+      "text": "ळा",
+      "audio": "kana-33-laaa"
+    },
+    {
+      "id": "34",
+      "text": "क्षा",
+      "audio": "kana-34-kshaa"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञा",
+      "audio": "kana-35-dnyaa"
+    },
+    {
+      "id": "1",
+      "text": "कु",
+      "audio": "pahilaukar-1-ku"
+    },
+    {
+      "id": "2",
+      "text": "खु",
+      "audio": "pahilaukar-2-khu"
+    },
+    {
+      "id": "3",
+      "text": "गु",
+      "audio": "pahilaukar-3-gu"
+    },
+    {
+      "id": "4",
+      "text": "घु",
+      "audio": "pahilaukar-4-ghu"
+    },
+    {
+      "id": "5",
+      "text": "चु",
+      "audio": "pahilaukar-5-chu"
+    },
+    {
+      "id": "6",
+      "text": "छु",
+      "audio": "pahilaukar-6-chuu"
+    },
+    {
+      "id": "7",
+      "text": "जु",
+      "audio": "pahilaukar-7-ju"
+    },
+    {
+      "id": "8",
+      "text": "झु",
+      "audio": "pahilaukar-8-jhu"
+    },
+    {
+      "id": "9",
+      "text": "ञु",
+      "audio": "pahilaukar-9-tru"
+    },
+    {
+      "id": "10",
+      "text": "टु",
+      "audio": "pahilaukar-10-tu"
+    },
+    {
+      "id": "11",
+      "text": "ठु",
+      "audio": "pahilaukar-11-thu"
+    },
+    {
+      "id": "12",
+      "text": "डु",
+      "audio": "pahilaukar-12-du"
+    },
+    {
+      "id": "13",
+      "text": "ढु",
+      "audio": "pahilaukar-13-dhu"
+    },
+    {
+      "id": "14",
+      "text": "णु",
+      "audio": "pahilaukar-14-nu"
+    },
+    {
+      "id": "15",
+      "text": "तु",
+      "audio": "pahilaukar-15-tu"
+    },
+    {
+      "id": "16",
+      "text": "थु",
+      "audio": "pahilaukar-16-thu"
+    },
+    {
+      "id": "17",
+      "text": "दु",
+      "audio": "pahilaukar-17-doo"
+    },
+    {
+      "id": "18",
+      "text": "धु",
+      "audio": "pahilaukar-18-dhoo"
+    },
+    {
+      "id": "19",
+      "text": "नु",
+      "audio": "pahilaukar-19-noo"
+    },
+    {
+      "id": "20",
+      "text": "पु",
+      "audio": "pahilaukar-20-pu"
+    },
+    {
+      "id": "21",
+      "text": "फु",
+      "audio": "pahilaukar-21-phu"
+    },
+    {
+      "id": "22",
+      "text": "बु",
+      "audio": "pahilaukar-22-bu"
+    },
+    {
+      "id": "23",
+      "text": "भु",
+      "audio": "pahilaukar-23-bhu"
+    },
+    {
+      "id": "24",
+      "text": "मु",
+      "audio": "pahilaukar-24-mu"
+    },
+    {
+      "id": "25",
+      "text": "यु",
+      "audio": "pahilaukar-25-yu"
+    },
+    {
+      "id": "26",
+      "text": "रु",
+      "audio": "pahilaukar-26-ru"
+    },
+    {
+      "id": "27",
+      "text": "लु",
+      "audio": "pahilaukar-27-lu"
+    },
+    {
+      "id": "28",
+      "text": "वु",
+      "audio": "pahilaukar-28-vu"
+    },
+    {
+      "id": "29",
+      "text": "शु",
+      "audio": "pahilaukar-29-shu"
+    },
+    {
+      "id": "30",
+      "text": "षु",
+      "audio": "pahilaukar-30-shuu"
+    },
+    {
+      "id": "31",
+      "text": "सु",
+      "audio": "pahilaukar-31-su"
+    },
+    {
+      "id": "32",
+      "text": "हु",
+      "audio": "pahilaukar-32-hu"
+    },
+    {
+      "id": "33",
+      "text": "ळु",
+      "audio": "pahilaukar-33-loo"
+    },
+    {
+      "id": "34",
+      "text": "क्षु",
+      "audio": "pahilaukar-34-kshu"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञु",
+      "audio": "pahilaukar-35-dnyu"
+    },
+    {
+      "id": "1",
+      "text": "कि",
+      "audio": "pahiliwelanti-1-ki"
+    },
+    {
+      "id": "2",
+      "text": "खि",
+      "audio": "pahiliwelanti-2-khi"
+    },
+    {
+      "id": "3",
+      "text": "गि",
+      "audio": "pahiliwelanti-3-gi"
+    },
+    {
+      "id": "4",
+      "text": "घि",
+      "audio": "pahiliwelanti-4-ghi"
+    },
+    {
+      "id": "5",
+      "text": "चि",
+      "audio": "pahiliwelanti-5-chi"
+    },
+    {
+      "id": "6",
+      "text": "छि",
+      "audio": "pahiliwelanti-6-chii"
+    },
+    {
+      "id": "7",
+      "text": "जि",
+      "audio": "pahiliwelanti-7-ji"
+    },
+    {
+      "id": "8",
+      "text": "झि",
+      "audio": "pahiliwelanti-8-jhi"
+    },
+    {
+      "id": "9",
+      "text": "ञि",
+      "audio": "pahiliwelanti-9-tri"
+    },
+    {
+      "id": "10",
+      "text": "टि",
+      "audio": "pahiliwelanti-10-ti"
+    },
+    {
+      "id": "11",
+      "text": "ठि",
+      "audio": "pahiliwelanti-11-thi"
+    },
+    {
+      "id": "12",
+      "text": "डि",
+      "audio": "pahiliwelanti-12-di"
+    },
+    {
+      "id": "13",
+      "text": "ढि",
+      "audio": "pahiliwelanti-13-dhi"
+    },
+    {
+      "id": "14",
+      "text": "णि",
+      "audio": "pahiliwelanti-14-ni"
+    },
+    {
+      "id": "15",
+      "text": "ति",
+      "audio": "pahiliwelanti-15-tee"
+    },
+    {
+      "id": "16",
+      "text": "थि",
+      "audio": "pahiliwelanti-16-thee"
+    },
+    {
+      "id": "17",
+      "text": "दि",
+      "audio": "pahiliwelanti-17-dee"
+    },
+    {
+      "id": "18",
+      "text": "धि",
+      "audio": "pahiliwelanti-18-dhee"
+    },
+    {
+      "id": "19",
+      "text": "नि",
+      "audio": "pahiliwelanti-19-nee"
+    },
+    {
+      "id": "20",
+      "text": "पि",
+      "audio": "pahiliwelanti-20-pi"
+    },
+    {
+      "id": "21",
+      "text": "फि",
+      "audio": "pahiliwelanti-21-phi"
+    },
+    {
+      "id": "22",
+      "text": "बि",
+      "audio": "pahiliwelanti-22-bi"
+    },
+    {
+      "id": "23",
+      "text": "भि",
+      "audio": "pahiliwelanti-23-bhi"
+    },
+    {
+      "id": "24",
+      "text": "मि",
+      "audio": "pahiliwelanti-24-mi"
+    },
+    {
+      "id": "25",
+      "text": "यि",
+      "audio": "pahiliwelanti-25-yi"
+    },
+    {
+      "id": "26",
+      "text": "रि",
+      "audio": "pahiliwelanti-26-ri"
+    },
+    {
+      "id": "27",
+      "text": "लि",
+      "audio": "pahiliwelanti-27-li"
+    },
+    {
+      "id": "28",
+      "text": "वि",
+      "audio": "pahiliwelanti-28-vi"
+    },
+    {
+      "id": "29",
+      "text": "शि",
+      "audio": "pahiliwelanti-29-shi"
+    },
+    {
+      "id": "30",
+      "text": "षि",
+      "audio": "pahiliwelanti-30-shee"
+    },
+    {
+      "id": "31",
+      "text": "सि",
+      "audio": "pahiliwelanti-31-si"
+    },
+    {
+      "id": "32",
+      "text": "हि",
+      "audio": "pahiliwelanti-32-hi"
+    },
+    {
+      "id": "33",
+      "text": "ळि",
+      "audio": "pahiliwelanti-33-lii"
+    },
+    {
+      "id": "34",
+      "text": "क्षि",
+      "audio": "pahiliwelanti-34-khsii"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञि",
+      "audio": "pahiliwelanti-35-dnyii"
+    },
+    {
+      "id": "1",
+      "text": "अः",
+      "audio": "wisarg-1-aha"
+    },
+    {
+      "id": "2",
+      "text": "कः",
+      "audio": "wisarg-2-kaha"
+    },
+    {
+      "id": "3",
+      "text": "खः",
+      "audio": "wisarg-3-khaha"
+    },
+    {
+      "id": "4",
+      "text": "गः",
+      "audio": "wisarg-4-gaha"
+    },
+    {
+      "id": "5",
+      "text": "घः",
+      "audio": "wisarg-5-ghaha"
+    },
+    {
+      "id": "6",
+      "text": "चः",
+      "audio": "wisarg-6-chaha"
+    },
+    {
+      "id": "7",
+      "text": "छः",
+      "audio": "wisarg-7-chhaha"
+    },
+    {
+      "id": "8",
+      "text": "जः",
+      "audio": "wisarg-8-jaha"
+    },
+    {
+      "id": "9",
+      "text": "झः",
+      "audio": "wisarg-9-jhaha"
+    },
+    {
+      "id": "10",
+      "text": "टः",
+      "audio": "wisarg-10-taha"
+    },
+    {
+      "id": "11",
+      "text": "ठः",
+      "audio": "wisarg-11-thaha"
+    },
+    {
+      "id": "12",
+      "text": "डः",
+      "audio": "wisarg-12-daha"
+    },
+    {
+      "id": "13",
+      "text": "ढः",
+      "audio": "wisarg-13-dhaha"
+    },
+    {
+      "id": "14",
+      "text": "णः",
+      "audio": "wisarg-14-naha"
+    },
+    {
+      "id": "15",
+      "text": "तः",
+      "audio": "wisarg-15-taha"
+    },
+    {
+      "id": "16",
+      "text": "थः",
+      "audio": "wisarg-16-thaha"
+    },
+    {
+      "id": "17",
+      "text": "दः",
+      "audio": "wisarg-17-daha"
+    },
+    {
+      "id": "18",
+      "text": "धः",
+      "audio": "wisarg-18-dhaha"
+    },
+    {
+      "id": "19",
+      "text": "नः",
+      "audio": "wisarg-19-naaha"
+    },
+    {
+      "id": "20",
+      "text": "पः",
+      "audio": "wisarg-20-paha"
+    },
+    {
+      "id": "21",
+      "text": "फः",
+      "audio": "wisarg-21-phaha"
+    },
+    {
+      "id": "22",
+      "text": "बः",
+      "audio": "wisarg-22-baha"
+    },
+    {
+      "id": "23",
+      "text": "भः",
+      "audio": "wisarg-23-bhaha"
+    },
+    {
+      "id": "24",
+      "text": "मः",
+      "audio": "wisarg-24-maha"
+    },
+    {
+      "id": "25",
+      "text": "यः",
+      "audio": "wisarg-25-yaha"
+    },
+    {
+      "id": "26",
+      "text": "रः",
+      "audio": "wisarg-26-raha"
+    },
+    {
+      "id": "27",
+      "text": "लः",
+      "audio": "wisarg-27-laha"
+    },
+    {
+      "id": "28",
+      "text": "वः",
+      "audio": "wisarg-28-vaha"
+    },
+    {
+      "id": "29",
+      "text": "शः",
+      "audio": "wisarg-29-shaha"
+    },
+    {
+      "id": "30",
+      "text": "षः",
+      "audio": "wisarg-30-shahaa"
+    },
+    {
+      "id": "31",
+      "text": "सः",
+      "audio": "wisarg-31-sahaa"
+    },
+    {
+      "id": "32",
+      "text": "हः",
+      "audio": "wisarg-32-haa"
+    },
+    {
+      "id": "33",
+      "text": "ळः",
+      "audio": "wisarg-33-lahaa"
+    },
+    {
+      "id": "34",
+      "text": "क्षः",
+      "audio": "wisarg-34-kshaha"
+    },
+    {
+      "id": "35",
+      "text": "ज्ञः",
+      "audio": "wisarg-35-dnyaha"
+    }
+  ]
+}

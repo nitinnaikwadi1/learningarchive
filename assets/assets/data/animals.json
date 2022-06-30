@@ -1,0 +1,118 @@
+{
+    "dataFeed": [
+        {
+            "name": "अस्वल - Black Bear",
+            "item": "1",
+            "video": "assets/animals/black_bear.mp4",
+            "audio":""
+        },
+        {
+            "name": "उंट - Camel",
+            "item": "2",
+            "video": "assets/animals/camel.mp4",
+            "audio":""
+        },
+        {
+            "name": "मांजर - Cat",
+            "item": "3",
+            "video": "assets/animals/manjar.mp4",
+            "audio":""
+        },
+        {
+            "name": "चित्ता - Cheetah",
+            "item": "4",
+            "video": "assets/animals/cheetah.mp4",
+            "audio":""
+        },
+        {
+            "name": "कुत्रा - Dog",
+            "item": "5",
+            "video": "assets/animals/dog.mp4",
+            "audio":""
+        },
+        {
+            "name": "हत्ती - Elephant",
+            "item": "6",
+            "video": "assets/animals/elephants.mp4",
+            "audio":""
+        },
+        {
+            "name": "जिराफ - Giraff",
+            "item": "7",
+            "video": "assets/animals/giraff.mp4",
+            "audio":""
+        },
+        {
+            "name": "खार - Squirrel",
+            "item": "8",
+            "video": "assets/animals/squriell.mp4",
+            "audio":""
+        },
+        {
+            "name": "घोडा - Horse",
+            "item": "9",
+            "video": "assets/animals/horse.mp4",
+            "audio":""
+        },
+        {
+            "name": "सिंह - Lion",
+            "item": "10",
+            "video": "assets/animals/lion.mp4",
+            "audio":""
+        },
+        {
+            "name": "मेंढी - Sheep",
+            "item": "11",
+            "video": "assets/animals/sheep.mp4",
+            "audio":""
+        },
+        {
+            "name": "झेब्रा - Zebra",
+            "item": "12",
+            "video": "assets/animals/zebra.mp4",
+            "audio":""
+        },
+        {
+            "name": "माकड - Monkey",
+            "item": "13",
+            "video": "assets/animals/monkey.mp4",
+            "audio":""
+        },
+        {
+            "name": "ध्रुवीय अस्वल - Polar Bear",
+            "item": "14",
+            "video": "assets/animals/polar_bear.mp4",
+            "audio":""
+        },
+        {
+            "name": "ससा - Rabbit",
+            "item": "15",
+            "video": "assets/animals/rabbit.mp4",
+            "audio":""
+        },
+        {
+            "name": "वाघ - Tiger",
+            "item": "16",
+            "video": "assets/animals/tiger.mp4",
+            "audio":""
+        },
+        {
+            "name": "कोल्हा - Wolf",
+            "item": "17",
+            "video": "assets/animals/wolf.mp4",
+            "audio":""
+        },
+        {
+            "name": "कांगारू - Kangaroo",
+            "item": "18",
+            "video": "assets/animals/kangaroo.mp4",
+            "audio":""
+        },
+        {
+            "name": "हरीण - Deer",
+            "item": "19",
+            "video": "assets/animals/deer.mp4",
+            "audio":""
+        }
+    ]
+}

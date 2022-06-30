@@ -1,0 +1,244 @@
+{
+    "dataFeed": [
+        {
+            "id": "1",
+            "text": "अ",
+            "audio": "mulakshar-1-a"
+        },
+        {
+            "id": "2",
+            "text": "आ",
+            "audio": "mulakshar-2-aa"
+        },
+        {
+            "id": "3",
+            "text": "इ",
+            "audio": "mulakshar-3-e"
+        },
+        {
+            "id": "4",
+            "text": "ई",
+            "audio": "mulakshar-4-ie"
+        },
+        {
+            "id": "5",
+            "text": "उ",
+            "audio": "mulakshar-5-u"
+        },
+        {
+            "id": "6",
+            "text": "ऊ",
+            "audio": "mulakshar-6-uu"
+        },
+        {
+            "id": "7",
+            "text": "ए",
+            "audio": "mulakshar-7-aye"
+        },
+        {
+            "id": "8",
+            "text": "ऐ",
+            "audio": "mulakshar-8-aie"
+        },
+        {
+            "id": "9",
+            "text": "ओ",
+            "audio": "mulakshar-9-oo"
+        },
+        {
+            "id": "10",
+            "text": "औ",
+            "audio": "mulakshar-10-au"
+        },
+        {
+            "id": "11",
+            "text": "अं",
+            "audio": "mulakshar-11-um"
+        },
+        {
+            "id": "12",
+            "text": "अः",
+            "audio": "mulakshar-12-aha"
+        },
+        {
+            "id": "13",
+            "text": "क",
+            "audio": "mulakshar-13-ka"
+        },
+        {
+            "id": "14",
+            "text": "ख",
+            "audio": "mulakshar-14-kh"
+        },
+        {
+            "id": "15",
+            "text": "ग",
+            "audio": "mulakshar-15-ga"
+        },
+        {
+            "id": "16",
+            "text": "घ",
+            "audio": "mulakshar-16-gh"
+        },
+        {
+            "id": "17",
+            "text": "ङ",
+            "audio": "mulakshar-17-anga"
+        },
+        {
+            "id": "18",
+            "text": "च",
+            "audio": "mulakshar-18-ch"
+        },
+        {
+            "id": "19",
+            "text": "छ",
+            "audio": "mulakshar-19-cha"
+        },
+        {
+            "id": "20",
+            "text": "ज",
+            "audio": "mulakshar-20-ja"
+        },
+        {
+            "id": "21",
+            "text": "झ",
+            "audio": "mulakshar-21-jha"
+        },
+        {
+            "id": "22",
+            "text": "ञ",
+            "audio": "mulakshar-22-tra"
+        },
+        {
+            "id": "23",
+            "text": "ट",
+            "audio": "mulakshar-23-ta"
+        },
+        {
+            "id": "24",
+            "text": "ठ",
+            "audio": "mulakshar-24-tha"
+        },
+        {
+            "id": "25",
+            "text": "ड",
+            "audio": "mulakshar-25-da"
+        },
+        {
+            "id": "26",
+            "text": "ढ",
+            "audio": "mulakshar-26-dha"
+        },
+        {
+            "id": "27",
+            "text": "ण",
+            "audio": "mulakshar-27-na"
+        },
+        {
+            "id": "28",
+            "text": "त",
+            "audio": "mulakshar-28-ta"
+        },
+        {
+            "id": "29",
+            "text": "थ",
+            "audio": "mulakshar-29-tha"
+        },
+        {
+            "id": "30",
+            "text": "द",
+            "audio": "mulakshar-30-da"
+        },
+        {
+            "id": "31",
+            "text": "ध",
+            "audio": "mulakshar-31-dha"
+        },
+        {
+            "id": "32",
+            "text": "न",
+            "audio": "mulakshar-32-naa"
+        },
+        {
+            "id": "33",
+            "text": "प",
+            "audio": "mulakshar-33-pa"
+        },
+        {
+            "id": "34",
+            "text": "फ",
+            "audio": "mulakshar-34-pha"
+        },
+        {
+            "id": "35",
+            "text": "ब",
+            "audio": "mulakshar-35-ba"
+        },
+        {
+            "id": "36",
+            "text": "भ",
+            "audio": "mulakshar-36-bha"
+        },
+        {
+            "id": "37",
+            "text": "म",
+            "audio": "mulakshar-37-ma"
+        },
+        {
+            "id": "38",
+            "text": "य",
+            "audio": "mulakshar-38-ya"
+        },
+        {
+            "id": "39",
+            "text": "र",
+            "audio": "mulakshar-39-ra"
+        },
+        {
+            "id": "40",
+            "text": "ल",
+            "audio": "mulakshar-40-la"
+        },
+        {
+            "id": "41",
+            "text": "व",
+            "audio": "mulakshar-41-va"
+        },
+        {
+            "id": "42",
+            "text": "श",
+            "audio": "mulakshar-42-sh"
+        },
+        {
+            "id": "43",
+            "text": "ष",
+            "audio": "mulakshar-43-sha"
+        },
+        {
+            "id": "44",
+            "text": "स",
+            "audio": "mulakshar-44-sa"
+        },
+        {
+            "id": "45",
+            "text": "ह",
+            "audio": "mulakshar-45-ha"
+        },
+        {
+            "id": "46",
+            "text": "ळ",
+            "audio": "mulakshar-46-alaa"
+        },
+        {
+            "id": "47",
+            "text": "क्ष",
+            "audio": "mulakshar-47-ksha"
+        },
+        {
+            "id": "48",
+            "text": "ज्ञ",
+            "audio": "mulakshar-48-dnya"
+        }
+    ]
+}

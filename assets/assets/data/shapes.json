@@ -1,0 +1,68 @@
+{
+    "dataFeed": [
+        {
+            "name": "गोल - Circle",
+            "video": "assets/shapes/circle.mp4"
+        },
+        {
+            "name": "घन - Cube",
+            "video": "assets/shapes/cube.mp4"
+        },
+        {
+            "name": "सप्तकोन - Heptagon",
+            "video": "assets/shapes/heptagon.mp4"
+        },
+        {
+            "name": "षट्कोन - Hexagon",
+            "video": "assets/shapes/hexagon.mp4"
+        },
+        {
+            "name": "रेष - Line",
+            "video": "assets/shapes/line.mp4"
+        },
+        {
+            "name": "अष्टकोन - Octegon",
+            "video": "assets/shapes/octegon.mp4"
+        },
+        {
+            "name": "लंबगोल - Oval",
+            "video": "assets/shapes/oval.mp4"
+        },
+        {
+            "name": "आयत - Rectangle",
+            "video": "assets/shapes/rectangle.mp4"
+        },
+        {
+            "name": "चौकोन - Square",
+            "video": "assets/shapes/square.mp4"
+        },
+        {
+            "name": "तारा - Star",
+            "video": "assets/shapes/star.mp4"
+        },
+        {
+            "name": "त्रिकोण - Triangle",
+            "video": "assets/shapes/triangle.mp4"
+        },
+        {
+            "name": "काटकोन - Right Triangle",
+            "video": "assets/shapes/right_triangle.mp4"
+        },
+        {
+            "name": "अर्ध गोल - Half Circle",
+            "video": "assets/shapes/half_circle.mp4"
+        },
+        {
+            "name": "शंकू - Cone",
+            "video": "assets/shapes/cone.mp4"
+        },
+        {
+            "name": "वृत्तचिती - Cylinder",
+            "video": "assets/shapes/cylinder.mp4"
+        },
+        {
+            "name": "पंचकोन - Pentagon",
+            "video": "assets/shapes/pentagon.mp4"
+        }
+    ]
+}

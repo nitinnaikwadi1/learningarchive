@@ -1,0 +1,134 @@
+{
+    "dataFeed": [
+        {
+            "name": "झेंडू - Marigold",
+            "item": "1",
+            "image": "assets/flowers/marigold.png"
+        },
+        {
+            "name": "शंखपुष्पी, गोकर्णी - Butterfly Pea",
+            "item": "2",
+            "image": "assets/flowers/shankhpushpi.png"
+        },
+        {
+            "name": "कर्दळी - Canna Lily",
+            "item": "3",
+            "image": "assets/flowers/kardali.png"
+        },
+        {
+            "name": "शेवंती - Chrysthemum",
+            "item": "4",
+            "image": "assets/flowers/shevanti.png"
+        },
+        {
+            "name": "चमेली - Common Jasmine",
+            "item": "5",
+            "image": "assets/flowers/chameli.png"
+        },
+        {
+            "name": "बचनाग - Glory Lily",
+            "item": "6",
+            "image": "assets/flowers/bachnag.png"
+        },
+        {
+            "name": "बहावा - Golden Shower",
+            "item": "7",
+            "image": "assets/flowers/bahava.png"
+        },
+        {
+            "name": "जास्वंद - Hibiscus",
+            "item": "8",
+            "image": "assets/flowers/jaswand.png"
+        },
+        {
+            "name": "मोगरा - Jasmin",
+            "item": "9",
+            "image": "assets/flowers/mogra.png"
+        },
+        {
+            "name": "कमळ - Lotus",
+            "item": "10",
+            "image": "assets/flowers/kamal.png"
+        },
+        {
+            "name": "घाणेरी, टनटनी - Lantana",
+            "item": "11",
+            "image": "assets/flowers/ghaneri.png"
+        },
+        {
+            "name": "रातराणी - Night Cestrum",
+            "item": "12",
+            "image": "assets/flowers/ratrani.png"
+        },
+        {
+            "name": "कण्हेर - Olender",
+            "item": "13",
+            "image": "assets/flowers/kanher.png"
+        },
+        {
+            "name": "पळस - Flame tree",
+            "item": "14",
+            "image": "assets/flowers/palas.png"
+        },
+        {
+            "name": "पारिजात - Night Jasmine",
+            "item": "15",
+            "image": "assets/flowers/parijat.png"
+        },
+        {
+            "name": "गुलमोहर - Peacock Flower",
+            "item": "16",
+            "image": "assets/flowers/gulmohar.png"
+        },
+        {
+            "name": "सदाफुली - Periwinkle",
+            "item": "17",
+            "image": "assets/flowers/sadafuli.png"
+        },
+        {
+            "name": "ताम्हण - Queen Crape",
+            "item": "18",
+            "image": "assets/flowers/tamhan.png"
+        },
+        {
+            "name": "निशिगंधा - Tuberose",
+            "item": "19",
+            "image": "assets/flowers/nishigandha.png"
+        },
+        {
+            "name": "तरवड - Tanner's Cassia",
+            "item": "20",
+            "image": "assets/flowers/tarvad.png"
+        },
+        {
+            "name": "सूर्यफूल - Sunflower",
+            "item": "21",
+            "image": "assets/flowers/suryful.png"
+        },
+        {
+            "name": "गुलाब - Rose",
+            "item": "22",
+            "image": "assets/flowers/rose.png"
+        },
+        {
+            "name": "चील - Bottlebrush",
+            "item": "23",
+            "image": "assets/flowers/cheel.png"
+        },
+        {
+            "name": "आकाश शेवगा - Spathodea",
+            "item": "24",
+            "image": "assets/flowers/akashshevga.png"
+        },
+        {
+            "name": "सप्तपर्ण - Alstonia",
+            "item": "25",
+            "image": "assets/flowers/saptparn.png"
+        },
+        {
+            "name": "रुक्मिणी - Ixora Mini",
+            "item": "26",
+            "image": "assets/flowers/ixora.png"
+        }
+    ]
+}

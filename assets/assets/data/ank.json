@@ -1,0 +1,44 @@
+{
+    "dataFeed": [
+        {
+            "text": "१",
+            "audio": "1"
+        },
+        {
+            "text": "२",
+            "audio": "2"
+        },
+        {
+            "text": "३",
+            "audio": "3"
+        },
+        {
+            "text": "४",
+            "audio": "4"
+        },
+        {
+            "text": "५",
+            "audio": "5"
+        },
+        {
+            "text": "६",
+            "audio": "6"
+        },
+        {
+            "text": "७",
+            "audio": "7"
+        },
+        {
+            "text": "८",
+            "audio": "8"
+        },
+        {
+            "text": "९",
+            "audio": "9"
+        },
+        {
+            "text": "१०",
+            "audio": "10"
+        }
+    ]
+}

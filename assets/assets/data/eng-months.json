@@ -1,0 +1,88 @@
+{
+    "dataFeed": [
+        {
+            "name": "January",
+            "item": "1",
+            "video": "/assets/eng-months/jan.mp4",
+            "month_cal": "/assets/eng-months/jan-cal.png",
+            "info": "Chaitra begins with the new moon in April. The first day of this month is called Gudi Padwa, which marks the day of Hindu new year."
+        },
+        {
+            "name": "February",
+            "item": "2",
+            "video": "/assets/eng-months/feb.mp4",
+            "month_cal": "/assets/eng-months/feb-cal.png",
+            "info": "28/29 Vaishakh is season of crop harvesting and the second month of hindu calendar."
+        },
+        {
+            "name": "March",
+            "item": "3",
+            "video": "/assets/eng-months/mar.mp4",
+            "month_cal": "/assets/eng-months/mar-cal.png",
+            "info": "Maharashtrians celebrate vat purnima in this month. This is third month of hindu calendar."
+        },
+        {
+            "name": "April",
+            "item": "4",
+            "video": "/assets/eng-months/apr.mp4",
+            "month_cal": "/assets/eng-months/apr-cal.png",
+            "info": "In this fourth month, Maharashtrians celebrate Gurupurnima and ashadi ekadashi celebrate."
+        },
+        {
+            "name": "May",
+            "item": "5",
+            "video": "/assets/eng-months/may.mp4",
+            "month_cal": "/assets/eng-months/may-cal.png",
+            "info": "This fifth month brings also the festivals of Naagpanchimi and Narali purnima."
+        },
+        {
+            "name": "June",
+            "item": "6",
+            "video": "/assets/eng-months/june.mp4",
+            "month_cal": "/assets/eng-months/june-cal.png",
+            "info": "This is month marks the festival of Ganesh Chaturthi."
+        },
+        {
+            "name": "July",
+            "item": "7",
+            "video": "/assets/eng-months/july.mp4",
+            "month_cal": "/assets/eng-months/july-cal.png",
+            "info": "Navratri, Durga puja, Kojagiri, Dasra, and Diwali are all festivals celebrated in the seventh month of Ashwin."
+        },
+        {
+            "name": "August",
+            "item": "8",
+            "video": "/assets/eng-months/aug.mp4",
+            "month_cal": "/assets/eng-months/aug-cal.png",
+            "info": "Lakshmi pujan implies the worship of godess Lakshmi & Bhaubeej is celebrated in the month of Kartik."
+        },
+        {
+            "name": "September",
+            "item": "9",
+            "video": "/assets/eng-months/sept.mp4",
+            "month_cal": "/assets/eng-months/sept-cal.png",
+            "info": "Shree Dutta Jayanti celebrated in the month of Margashirsh"
+        },
+        {
+            "name": "October",
+            "item": "10",
+            "video": "/assets/eng-months/oct.mp4",
+            "month_cal": "/assets/eng-months/oct-cal.png",
+            "info": "Makar sankranti is celebrated in this month & Paush अमावस्या is also celebrated in this month."
+        },
+        {
+            "name": "November",
+            "item": "11",
+            "video": "/assets/eng-months/nov.mp4",
+            "month_cal": "/assets/eng-months/nov-cal.png",
+            "info": "Mahashivratri is celebrated in this month. On this day, people worship lord Mahadev."
+        },
+        {
+            "name": "December",
+            "item": "12",
+            "video": "/assets/eng-months/dec.mp4",
+            "month_cal": "/assets/eng-months/dec-cal.png",
+            "info": "This is last month in the Hindu calendar. Holi is celebrated in this month."
+        }
+    ]
+}

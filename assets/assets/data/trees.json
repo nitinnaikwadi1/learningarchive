@@ -1,0 +1,10 @@
+{
+    "dataFeed": [
+        {
+            "name": "वटवृक्ष - Banyan",
+            "item": "1",
+            "tree": "assets/trees/vad.jpg",
+            "textColor": "white"
+        }
+    ]
+}

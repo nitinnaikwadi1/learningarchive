@@ -1,0 +1,63 @@
+{
+    "dataFeed1": [
+        {
+            "text": "द",
+            "audio": "1-da"
+        },
+        {
+            "text": "दे",
+            "audio": "2-da"
+        },
+        {
+            "text": "दो",
+            "audio": "3-da"
+        },
+        {
+            "text": "त",
+            "audio": "1-ta"
+        },
+        {
+            "text": "ते",
+            "audio": "2-ta"
+        },{
+            "text": "तो",
+            "audio": "3-ta"
+        },
+        {
+            "text": "ब",
+            "audio": "1-ba"
+        },
+        {
+            "text": "बे",
+            "audio": "2-ba"
+        },
+        {
+            "text": "बो",
+            "audio": "3-ba"
+        },
+        {
+            "text": "ह",
+            "audio": "1-ha"
+        },
+        {
+            "text": "हे",
+            "audio": "2-ha"
+        },
+        {
+            "text": "हो",
+            "audio": "3-ha"
+        },
+        {
+            "text": "र",
+            "audio": "1-ra"
+        },
+        {
+            "text": "रे",
+            "audio": "2-ra"
+        },
+        {
+            "text": "रो",
+            "audio": "3-ra"
+        }
+    ]
+}
