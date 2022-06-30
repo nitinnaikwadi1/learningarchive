@@ -1,14 +1,5 @@
 {
     "dataFeed": [
-        {
-            "id": 1,
-            "text": "सोपे शब्द",
-            "link": "simple-words.json"
-        },
-        {
-            "id": 2,
-            "text": "जोड शब्द",
-            "link": "jod-shabd.json"
-        }
+        
     ]
 }
